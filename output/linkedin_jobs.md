@@ -1,58 +1,21 @@
 # 🔥 LinkedIn — Sahil Talwar — Engineering Leadership Roles
-*Last updated: 2026-09-14 05:10 UTC*
+*Last updated: 2026-09-14 07:13 UTC*
 
-**11 new role(s)** since last run · 11 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [Vice President, Engineering and Technology](https://www.linkedin.com/jobs/view/4464779220/) — Boeing
-- 📍 **Location:** Bingen, WA
-- 🕒 **Posted:** 2026-09-14
-
-### [Sr. Manager, People Technology and Services](https://www.linkedin.com/jobs/view/4464763449/) — Sony Interactive Entertainment
-- 📍 **Location:** San Mateo, CA
-- 💰 **Salary:** $242,050.00 – $284,900.00/year
-- 🕒 **Posted:** 2026-09-14
-
-### [Director, Global Security Technology (Remote)](https://www.linkedin.com/jobs/view/4463896426/) — Stryker
-- 📍 **Location:** Orlando, FL
-- 💰 **Salary:** $155,900 - $259,700 USD
-- 🕒 **Posted:** 2026-09-14
-
-### [Director, Global Security Technology (Remote)](https://www.linkedin.com/jobs/view/4464134285/) — Stryker
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $155,900 - $259,700 USD
-- 🕒 **Posted:** 2026-09-14
-
-### [Director, Global Security Technology (Remote)](https://www.linkedin.com/jobs/view/4464145168/) — Stryker
-- 📍 **Location:** Massachusetts, United States
-- 💰 **Salary:** $155,900 - $259,700 USD
-- 🕒 **Posted:** 2026-09-14
-
-### [Director, Global Security Technology (Remote)](https://www.linkedin.com/jobs/view/4464129461/) — Stryker
-- 📍 **Location:** Illinois, United States
-- 💰 **Salary:** $155,900 - $259,700 USD
-- 🕒 **Posted:** 2026-09-14
-
-### [Director, Global Security Technology (Remote)](https://www.linkedin.com/jobs/view/4463884520/) — Stryker
-- 📍 **Location:** Arizona, United States
-- 💰 **Salary:** $155,900 - $259,700 USD
-- 🕒 **Posted:** 2026-09-14
-
-### [Technology Strategy Manager/Sr Manager, Financial Services](https://www.linkedin.com/jobs/view/4364032896/) — Accenture
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $87,400 to $253,000
-- 🕒 **Posted:** 2026-09-14
-
-### [Director, Global Security Technology (Remote)](https://www.linkedin.com/jobs/view/4463889457/) — Stryker
+### [Vice President, Engineering](https://www.linkedin.com/jobs/view/4467034377/) — Conductor
 - 📍 **Location:** United States
-- 💰 **Salary:** $155,900 - $259,700 USD
 - 🕒 **Posted:** 2026-09-14
 
-### [Technology Strategy Manager/Sr Manager: Communications, Media and High Tech](https://www.linkedin.com/jobs/view/4361663358/) — Accenture
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $87,400 to $253,000
+### [VP of Technology & AI Infrastructure](https://www.linkedin.com/jobs/view/4467037395/) — Swooped
+- 📍 **Location:** United States
+- 💰 **Salary:** $200,000 – $225,000 annually
 - 🕒 **Posted:** 2026-09-14
 
-### [Director, Global Security Technology (Remote)](https://www.linkedin.com/jobs/view/4463885472/) — Stryker
-- 📍 **Location:** Georgia, United States
-- 💰 **Salary:** $155,900 - $259,700 USD
+### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4465714260/) — ActAI
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-14
+
+### [Head-Software (Chapter Lead)](https://www.linkedin.com/jobs/view/4465727168/) — Beko Corporate
+- 📍 **Location:** Manisa, Manisa, Türkiye
 - 🕒 **Posted:** 2026-09-14
