@@ -1,84 +1,74 @@
 # 🏛 Priority Employers — Sahil Talwar — Engineering Leadership Roles
-*Last updated: 2026-09-14 09:48 UTC*
+*Last updated: 2026-09-15 09:35 UTC*
 
-**18 new role(s)** since last run · 18 total in last 24h
+**15 new role(s)** since last run · 16 total in last 24h
 
-### [Senior Manager / Director, Cloud Infrastructure](https://www.linkedin.com/jobs/view/4465701763/) — MetaComp
-- 📍 **Location:** Federal Territory of Kuala Lumpur, Malaysia
-- 🕒 **Posted:** 2026-09-14
+### [Senior Manager, Software Development, WorkSpaces for AI Agents, Applied AI Solutions](https://www.linkedin.com/jobs/view/4467405617/) — Amazon Web Services (AWS)
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-09-15
 
-### [Chip Lead /  ASIC Director](https://www.linkedin.com/jobs/view/4417689694/) — AMD
+### [Senior Manager, Software Engineering - Authentication Platform](https://www.linkedin.com/jobs/view/4467704021/) — Salesforce
+- 📍 **Location:** Bellevue, WA
+- 💰 **Salary:** $172,500 - $260,100 annually
+- 🕒 **Posted:** 2026-09-15
+
+### [Director, Applications and AI Automation](https://www.linkedin.com/jobs/view/4467436481/) — RES
+- 📍 **Location:** Kings Langley, England, United Kingdom
+- 🕒 **Posted:** 2026-09-15
+
+### [Snr Director, Applied Science](https://www.linkedin.com/jobs/view/4418322427/) — Oracle
+- 📍 **Location:** United States
+- 💰 **Salary:** $193,600 - $414,400 per year
+- 🕒 **Posted:** 2026-09-15
+
+### [Sr. Director, Pre-Si System Validation, Data Center GPU Products](https://www.linkedin.com/jobs/view/4456907064/) — AMD
 - 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $248,800.00/yr - $373,200.00/yr
+- 💰 **Salary:** $268,640.00/yr - $402,960.00/yr
+- 🕒 **Posted:** 2026-09-15
+
+### [Director, Platform Software Engineering - Robotics](https://www.linkedin.com/jobs/view/4456525715/) — Oracle
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $122,500 - $355,400 per year
+- 🕒 **Posted:** 2026-09-15
+
+### [Director, Engineering, Sovereign Environments, SRE, Cloud](https://www.linkedin.com/jobs/view/4466132699/) — Google
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $307000 - $427000
 - 🕒 **Posted:** 2026-09-14
 
-### [Senior Manager of Graphics Software Development](https://www.linkedin.com/jobs/view/4428253779/) — AMD
-- 📍 **Location:** Warsaw, Mazowieckie, Poland
+### [Senior Director, Software Engineering](https://www.linkedin.com/jobs/view/4447852738/) — Capital One
+- 📍 **Location:** McLean, VA
+- 💰 **Salary:** $314,800 - $359,300
 - 🕒 **Posted:** 2026-09-14
 
-### [Senior Director-Technical Delivery](https://www.linkedin.com/jobs/view/4467039967/) — Intellect Design Arena Ltd
-- 📍 **Location:** Chennai, Tamil Nadu, India
+### [Vice President, Roadway Design](https://www.linkedin.com/jobs/view/4466112648/) — Pape-Dawson
+- 📍 **Location:** San Antonio, TX
 - 🕒 **Posted:** 2026-09-14
 
-### [Director of Engineering, Core & Ads Serving Platform](https://www.linkedin.com/jobs/view/4447706448/) — Pinterest
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $285,452—$449,541 USD
-- 🕒 **Posted:** 2026-09-13
-
-### [Senior Director, Core Infrastructure Engineering - OCI Virtual Networking](https://www.linkedin.com/jobs/view/4435927065/) — Oracle
-- 📍 **Location:** Nashville, TN
-- 💰 **Salary:** $193,600 - $414,400 per year
-- 🕒 **Posted:** 2026-09-13
-
-### [Director, Rack Scale Software Architecture](https://www.linkedin.com/jobs/view/4422084003/) — NVIDIA
-- 📍 **Location:** Durham, NC
-- 🕒 **Posted:** 2026-09-13
-
-### [Senior Manager, Software Engineering - Robotics Manipulation](https://www.linkedin.com/jobs/view/4437934175/) — NVIDIA
-- 📍 **Location:** Boulder, CO
-- 🕒 **Posted:** 2026-09-13
-
-### [Sr. Manager, Engineering - Search](https://www.linkedin.com/jobs/view/4297735988/) — Databricks
-- 📍 **Location:** Mountain View, CA
+### [Sr. Manager, Engineering  Configuration Platform Team](https://www.linkedin.com/jobs/view/4417677327/) — Databricks
+- 📍 **Location:** Bellevue, WA
 - 💰 **Salary:** $222,000—$300,000 USD
-- 🕒 **Posted:** 2026-09-13
+- 🕒 **Posted:** 2026-09-14
 
-### [Senior Manager, Engineering - Data Center Firmware](https://www.linkedin.com/jobs/view/4428785009/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-13
+### [Senior Engineering Manager - Android Connectivity](https://www.linkedin.com/jobs/view/4418855449/) — Rivian and Volkswagen Group Technologies
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $237,700.00/yr - $326,150.00/yr
+- 🕒 **Posted:** 2026-09-14
 
-### [Senior Manager, Software Engineering, Back End (Python, Java, Spark)](https://www.linkedin.com/jobs/view/4466767994/) — Capital One
-- 📍 **Location:** McLean, VA
-- 💰 **Salary:** $229,900 - $262,400
-- 🕒 **Posted:** 2026-09-13
+### [Senior Manager, Software Engineering](https://www.linkedin.com/jobs/view/4467231789/) — Salesforce
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-09-14
 
-### [Sr. Manager, Field Engineering - Public Sector (Intel, Navy, Air Force)](https://www.linkedin.com/jobs/view/4388495088/) — Databricks
-- 📍 **Location:** Washington, VA
-- 💰 **Salary:** $192,100—$264,175 USD
-- 🕒 **Posted:** 2026-09-13
+### [Head of Maintenance Repair & Overhaul](https://www.linkedin.com/jobs/view/4420449227/) — Anduril Industries
+- 📍 **Location:** Costa Mesa, CA
+- 💰 **Salary:** $220,000—$292,000 USD
+- 🕒 **Posted:** 2026-09-14
 
-### [Senior Director, Product Management, Engineering 360](https://www.linkedin.com/jobs/view/4439086271/) — Capital One
-- 📍 **Location:** McLean, VA
-- 💰 **Salary:** $269,600 - $307,700
-- 🕒 **Posted:** 2026-09-13
+### [Avionics & Communication - IPT Head](https://www.linkedin.com/jobs/view/4466132561/) — Intellectt Inc
+- 📍 **Location:** Montreal, Quebec, Canada
+- 💰 **Salary:** $120.00/yr - CA$140.00/yr
+- 🕒 **Posted:** 2026-09-14
 
-### [Senior Director, Special Projects – Data Center Operations (Nashville, TN)](https://www.linkedin.com/jobs/view/4436635326/) — Oracle
-- 📍 **Location:** Nashville, TN
-- 💰 **Salary:** $193,600 - $414,400 per year
-- 🕒 **Posted:** 2026-09-13
-
-### [Director, Engineering – Software Engineering](https://www.linkedin.com/jobs/view/4438375567/) — NVIDIA
-- 📍 **Location:** Hanoi, Hanoi, Vietnam
-- 🕒 **Posted:** 2026-09-13
-
-### [Senior Engineering Manager, Infrastructure Security Engineering - DGX Cloud](https://www.linkedin.com/jobs/view/4456699215/) — NVIDIA
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-09-13
-
-### [Sr. Manager, Field Engineering Qatar&Africa](https://www.linkedin.com/jobs/view/4408888685/) — Databricks
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-09-13
-
-### [Sr. Manager, Field Engineering](https://www.linkedin.com/jobs/view/4388407199/) — Databricks
-- 📍 **Location:** Singapore
-- 🕒 **Posted:** 2026-09-13
+### [Sr. Manager, Engineering](https://www.linkedin.com/jobs/view/4411894675/) — Databricks
+- 📍 **Location:** Amsterdam, North Holland, Netherlands
+- 🕒 **Posted:** 2026-09-14
