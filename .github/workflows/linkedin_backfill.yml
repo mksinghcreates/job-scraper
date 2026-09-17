@@ -79,6 +79,7 @@ jobs:
   merge-phase1:
     name: Merge Phase 1 + commit
     needs: fanout-phase1
+    if: ${{ !cancelled() }}
     runs-on: ubuntu-latest
     concurrency:
       group: job-scraper-commit-push
@@ -178,6 +179,7 @@ jobs:
   merge-phase2:
     name: Merge Phase 2 + commit
     needs: fanout-phase2
+    if: ${{ !cancelled() }}
     runs-on: ubuntu-latest
     concurrency:
       group: job-scraper-commit-push
