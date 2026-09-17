@@ -1,313 +1,170 @@
 # 🔥 LinkedIn — Sahil Talwar — Engineering Leadership Roles
-*Last updated: 2026-09-17 08:07 UTC*
+*Last updated: 2026-09-17 17:13 UTC*
 
-**62 new role(s)** since last run · 62 total in last 1h
+**36 new role(s)** since last run · 36 total in last 1h
 
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467171720/) — PwC
-- 📍 **Location:** Oklahoma City, OK
-- 💰 **Salary:** $91,000 - $321,500
+### [Director of Engineering](https://www.linkedin.com/jobs/view/4468653792/) — @GLC
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $300,000.00/yr - $450,000.00/yr
 - 🕒 **Posted:** 2026-09-17
 
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467179595/) — PwC
-- 📍 **Location:** Fayetteville, AR
-- 💰 **Salary:** $91,000 - $321,500
+### [Director of Engineering](https://www.linkedin.com/jobs/view/4468663597/) — Cryptic Vector
+- 📍 **Location:** Liberty Township, OH
 - 🕒 **Posted:** 2026-09-17
 
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467169770/) — PwC
-- 📍 **Location:** Toledo, OH
-- 💰 **Salary:** $91,000 - $321,500
+### [Director, Software Engineering](https://www.linkedin.com/jobs/view/4466273628/) — Medidata Solutions
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $184,500-246,000
 - 🕒 **Posted:** 2026-09-17
 
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467172716/) — PwC
-- 📍 **Location:** Little Rock, AR
-- 💰 **Salary:** $91,000 - $321,500
+### [Director of Cloud Infrastructure Engineering](https://www.linkedin.com/jobs/view/4459826146/) — Wizards of the Coast
+- 📍 **Location:** Renton, WA
+- 💰 **Salary:** $216,200 USD - $324,300 USD
 - 🕒 **Posted:** 2026-09-17
 
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467167799/) — PwC
-- 📍 **Location:** Tulsa, OK
-- 💰 **Salary:** $91,000 - $321,500
+### [Director of Engineering & Maintenance](https://www.linkedin.com/jobs/view/4466276708/) — Applied Resource Group
+- 📍 **Location:** Kennesaw, GA
+- 💰 **Salary:** $125,000.00/yr - $155,000.00/yr
 - 🕒 **Posted:** 2026-09-17
 
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467174723/) — PwC
-- 📍 **Location:** San Antonio, TX
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467163908/) — PwC
-- 📍 **Location:** Birmingham, AL
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467183527/) — PwC
-- 📍 **Location:** Des Moines, IA
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467180572/) — PwC
-- 📍 **Location:** Rochester, NY
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467170722/) — PwC
-- 📍 **Location:** Louisville, KY
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467164847/) — PwC
-- 📍 **Location:** Indianapolis, IN
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467167779/) — PwC
-- 📍 **Location:** Columbia, SC
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467186547/) — PwC
-- 📍 **Location:** Cleveland, OH
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467173717/) — PwC
-- 📍 **Location:** Richmond, VA
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467181636/) — PwC
-- 📍 **Location:** Buffalo, NY
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467169764/) — PwC
-- 📍 **Location:** New Orleans, LA
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467177604/) — PwC
+### [Senior Director, SoC Power and Clocking Technology](https://www.linkedin.com/jobs/view/4447348839/) — Arm
 - 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $91,000 - $321,500
+- 💰 **Salary:** $382,500-$517,500 per year
 - 🕒 **Posted:** 2026-09-17
 
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467178638/) — PwC
-- 📍 **Location:** Las Vegas, NV
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467175659/) — PwC
-- 📍 **Location:** Albany, NY
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467184566/) — PwC
-- 📍 **Location:** Montpelier, VT
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467178642/) — PwC
-- 📍 **Location:** Spartanburg, SC
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467165843/) — PwC
-- 📍 **Location:** Columbus, OH
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467181632/) — PwC
-- 📍 **Location:** Salt Lake City, UT
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467173725/) — PwC
-- 📍 **Location:** Boca Raton, FL
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467171708/) — PwC
-- 📍 **Location:** Cincinnati, OH
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467180575/) — PwC
-- 📍 **Location:** Detroit, MI
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467183528/) — PwC
-- 📍 **Location:** Melville, NY
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467173726/) — PwC
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467171719/) — PwC
-- 📍 **Location:** Orlando, FL
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467164835/) — PwC
-- 📍 **Location:** Jacksonville, FL
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467166749/) — PwC
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467186535/) — PwC
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467186533/) — PwC
-- 📍 **Location:** Nashville, TN
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467165852/) — PwC
-- 📍 **Location:** Hartford, CT
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467179586/) — PwC
-- 📍 **Location:** Raleigh, NC
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467165851/) — PwC
-- 📍 **Location:** Kansas City, MO
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467165850/) — PwC
-- 📍 **Location:** Stamford, CT
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467186548/) — PwC
-- 📍 **Location:** St Louis, MO
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467178640/) — PwC
-- 📍 **Location:** Florham Park, NJ
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467163907/) — PwC
-- 📍 **Location:** Tampa, FL
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467181623/) — PwC
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467182592/) — PwC
-- 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467180578/) — PwC
-- 📍 **Location:** Rosemont, IL
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467171707/) — PwC
-- 📍 **Location:** Baltimore, MD
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467174726/) — PwC
-- 📍 **Location:** Minneapolis, MN
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467179593/) — PwC
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467172723/) — PwC
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467185475/) — PwC
-- 📍 **Location:** Fort Worth, TX
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467186534/) — PwC
-- 📍 **Location:** Milwaukee, WI
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467183539/) — PwC
-- 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467184567/) — PwC
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467180573/) — PwC
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467176625/) — PwC
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467175663/) — PwC
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467187219/) — PwC
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467184568/) — PwC
-- 📍 **Location:** Houston, TX
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467182594/) — PwC
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467184560/) — PwC
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-09-17
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467179587/) — PwC
+### [Head of Architecture & Platform Engineering](https://www.linkedin.com/jobs/view/4449902812/) — Finastra
 - 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $91,000 - $321,500
 - 🕒 **Posted:** 2026-09-17
 
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467177606/) — PwC
+### [Head of High-Frequency Market Data Engineering](https://www.linkedin.com/jobs/view/4438434270/) — Two Sigma
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-09-17
+
+### [Director, Technology Development](https://www.linkedin.com/jobs/view/4319213401/) — Molex
+- 📍 **Location:** Lisle, IL
+- 💰 **Salary:** $200,000 - $225,000 per year
+- 🕒 **Posted:** 2026-09-17
+
+### [Director Cloud Platform Adoption](https://www.linkedin.com/jobs/view/4459636826/) — HCA Healthcare
+- 📍 **Location:** Nashville, TN
+- 🕒 **Posted:** 2026-09-17
+
+### [Sr Software Development Manager, EC2](https://www.linkedin.com/jobs/view/4459623352/) — Amazon Web Services (AWS)
+- 📍 **Location:** San Diego, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Sr Manager Design Engineering](https://www.linkedin.com/jobs/view/4449323226/) — Constellation
+- 📍 **Location:** Clinton, IL
+- 💰 **Salary:** $183,600 to $204,000,
+- 🕒 **Posted:** 2026-09-17
+
+### [Sr Manager Design Engineering](https://www.linkedin.com/jobs/view/4439896041/) — Constellation
+- 📍 **Location:** Morris, IL
+- 💰 **Salary:** $183,600 to $204,000,
+- 🕒 **Posted:** 2026-09-17
+
+### [Digital Engineering Senior Manager - Epic/Patient Experience](https://www.linkedin.com/jobs/view/4440822524/) — Montefiore Einstein Technology
+- 📍 **Location:** Yonkers, NY
+- 💰 **Salary:** $156,000.00-$195,000.00
+- 🕒 **Posted:** 2026-09-17
+
+### [Sr Manager, Software Engineering - Logging (Chronosphere)](https://www.linkedin.com/jobs/view/4457792436/) — Palo Alto Networks
+- 📍 **Location:** Bridgeport, CT
+- 🕒 **Posted:** 2026-09-17
+
+### [Sr. Manager, Infrastructure Engineering](https://www.linkedin.com/jobs/view/4467582029/) — Slalom
 - 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $91,000 - $321,500
 - 🕒 **Posted:** 2026-09-17
 
-### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4467174968/) — Doit
-- 📍 **Location:** Petaling Jaya, Selangor, Malaysia
+### [Senior Manager, Artificial Intelligence Engineering](https://www.linkedin.com/jobs/view/4467574337/) — Teradata
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $199,500.00/yr - $299,300.00/yr
 - 🕒 **Posted:** 2026-09-17
 
-### [Executive Director of Development, College of Engineering & Computing](https://www.linkedin.com/jobs/view/4428757102/) — FIU Foundation
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $155,000-$165,000
+### [Sr. Manager, Infrastructure Engineering](https://www.linkedin.com/jobs/view/4467576102/) — Slalom
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Engineering Manager, Backend/Platform](https://www.linkedin.com/jobs/view/4449959758/) — SentiLink
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-09-17
+
+### [Americas Tax Technology Group - Development Senior Manager](https://www.linkedin.com/jobs/view/4434891706/) — EY
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $101,700 to $294,800
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Engineering Manager - Loyalty Product](https://www.linkedin.com/jobs/view/4467565386/) — RemoteHunter
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-17
+
+### [Americas Tax Technology Group - Development Senior Manager](https://www.linkedin.com/jobs/view/4434897118/) — EY
+- 📍 **Location:** Dallas, TX
+- 💰 **Salary:** $101,700 to $294,800
+- 🕒 **Posted:** 2026-09-17
+
+### [Vice President, Global Server Infrastructure](https://www.linkedin.com/jobs/view/4468658828/) — Broadridge
+- 📍 **Location:** Newark, NJ
+- 💰 **Salary:** $220,000 - $260,000 USD
+- 🕒 **Posted:** 2026-09-17
+
+### [Sr Manager, Software Engineering - Logging (Chronosphere)](https://www.linkedin.com/jobs/view/4458000425/) — Palo Alto Networks
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-09-17
+
+### [Chief Data & Platform Officer](https://www.linkedin.com/jobs/view/4468680034/) — Millman Search
+- 📍 **Location:** Annapolis, MD
+- 💰 **Salary:** $170,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Director Cybersecurity Engineering and Operations](https://www.linkedin.com/jobs/view/4461684241/) — Penn Medicine, University of Pennsylvania Health System
+- 📍 **Location:** Philadelphia, PA
+- 🕒 **Posted:** 2026-09-17
+
+### [Sr Manager, Software Engineering - Logging (Chronosphere)](https://www.linkedin.com/jobs/view/4457795450/) — Palo Alto Networks
+- 📍 **Location:** Arlington, VA
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Delivery Manager — Infrastructure, Hosting & Network](https://www.linkedin.com/jobs/view/4468675104/) — mrqsoft innnovations
+- 📍 **Location:** United States
+- 💰 **Salary:** $70.00/hr - $75.00/hr
+- 🕒 **Posted:** 2026-09-17
+
+### [Director, Power Infrastructure O&M - Data Center Operations](https://www.linkedin.com/jobs/view/4449673673/) — SB Energy
+- 📍 **Location:** Redwood City, CA
+- 💰 **Salary:** $190,000-$200,000
+- 🕒 **Posted:** 2026-09-17
+
+### [Division Director Simulation and Technology](https://www.linkedin.com/jobs/view/4459394497/) — HCA Healthcare
+- 📍 **Location:** St. Petersburg, FL
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Director, Technology Strategy](https://www.linkedin.com/jobs/view/4468663733/) — Spectrum
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $155,600.00/yr - $300,800.00/yr
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Director, Technology Strategy](https://www.linkedin.com/jobs/view/4468671622/) — Spectrum
+- 📍 **Location:** Greenwood Village, CO
+- 💰 **Salary:** $155,600.00/yr - $300,800.00/yr
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Manager, Service Engineering](https://www.linkedin.com/jobs/view/4431433952/) — LSEG
+- 📍 **Location:** St Louis, MO
+- 💰 **Salary:** $114,200 - $190,400
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Manager, Service Engineering](https://www.linkedin.com/jobs/view/4431450835/) — LSEG
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $114,200 - $190,400
+- 🕒 **Posted:** 2026-09-17
+
+### [Global Sr. Manager Mfg. & Process Dvl. Engineering](https://www.linkedin.com/jobs/view/4468667859/) — TE Connectivity
+- 📍 **Location:** United States
+- 💰 **Salary:** $158,600 – $237,900
+- 🕒 **Posted:** 2026-09-17
+
+### [VP Principle Software Engineer](https://www.linkedin.com/jobs/view/4459347683/) — LPL Financial
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $159,959.00 - $266,564.00
 - 🕒 **Posted:** 2026-09-17
