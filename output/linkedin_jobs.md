@@ -1,121 +1,96 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-09-18 17:02 UTC*
+*Last updated: 2026-09-18 19:56 UTC*
 
-**25 new role(s)** since last run · 25 total in last 1h
+**20 new role(s)** since last run · 20 total in last 1h
 
-### [VP Digital Assets Product, Corporate Actions](https://www.linkedin.com/jobs/view/4441279510/) — Broadridge
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $240,000.00- $260,000.00
-- 🕒 **Posted:** 2026-09-18
-
-### [Vice President, POM Technical Product Management-Entitlements & Authentication](https://www.linkedin.com/jobs/view/4422173963/) — BNY
+### [Senior Vice President, ETF Product Management](https://www.linkedin.com/jobs/view/4469226038/) — BNY
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-18
 
-### [Head of Member Experience Product Management](https://www.linkedin.com/jobs/view/4467887448/) — Antidote Health
+### [Director, FX and Money Markets Operations Product Owner - COO Group](https://www.linkedin.com/jobs/view/4469203959/) — RBC
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $180,000 - 250,000
+- 🕒 **Posted:** 2026-09-18
+
+### [Sr Manager, Product Management - Staff Operations](https://www.linkedin.com/jobs/view/4440997045/) — Capital One
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $200,700 - $229,100
+- 🕒 **Posted:** 2026-09-18
+
+### [Senior Manager, Product Manager, Customer Restrictions-Product Manager](https://www.linkedin.com/jobs/view/4469214820/) — Capital One
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $200,700 - $229,100
+- 🕒 **Posted:** 2026-09-18
+
+### [Senior Manager, Product Management - Enterprise Data](https://www.linkedin.com/jobs/view/4469222596/) — Capital One
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $200,700 - $229,100
+- 🕒 **Posted:** 2026-09-18
+
+### [Director, Product Design](https://www.linkedin.com/jobs/view/4469225086/) — BNY
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-18
+
+### [Director, Integrated Strategy (B2B)](https://www.linkedin.com/jobs/view/4468018050/) — Dentsu Creative
 - 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $215,000.00/yr - $250,000.00/yr
+- 💰 **Salary:** $114,425-$145,000
 - 🕒 **Posted:** 2026-09-18
 
-### [Director, Product Management, Servicing Strategy](https://www.linkedin.com/jobs/view/4460354074/) — Capital One
+### [Director, Product Management - Enterprise Services & Supplier Product, Risk & Operations](https://www.linkedin.com/jobs/view/4469222602/) — Capital One
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $209,500 - $239,100
+- 💰 **Salary:** $230,400 - $263,000
 - 🕒 **Posted:** 2026-09-18
 
-### [Director, New Product Integration and Vendor Risk Management](https://www.linkedin.com/jobs/view/4467879736/) — Google
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $256000 - $356000
+### [VP, Technology Product Management](https://www.linkedin.com/jobs/view/4467899803/) — Wolters Kluwer
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $226,000.00 - $339,850.00 USD
 - 🕒 **Posted:** 2026-09-18
 
-### [Director, Product Manager (Portfolio Margin and Risk)](https://www.linkedin.com/jobs/view/4393200450/) — Galaxy
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $250,000 - $270,000 USD
-- 🕒 **Posted:** 2026-09-18
-
-### [Sr. Product Manager (Hybrid - NYC, Newark, NJ, or AZ)](https://www.linkedin.com/jobs/view/4459863251/) — Broadridge
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $130,000 - $140,000
-- 🕒 **Posted:** 2026-09-18
-
-### [Senior Downstream Product Manager, Biologics (Hybrid)](https://www.linkedin.com/jobs/view/4463554680/) — Stryker
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $123,100 - $205,200 USD
-- 🕒 **Posted:** 2026-09-18
-
-### [Senior Product Manager - Cloud Infrastructure](https://www.linkedin.com/jobs/view/4458017174/) — Okta
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $189,000 USD - $260,000 USD
-- 🕒 **Posted:** 2026-09-18
-
-### [Senior Product Manager, Growth](https://www.linkedin.com/jobs/view/4459023509/) — Duolingo
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $182,800—$247,300 USD
-- 🕒 **Posted:** 2026-09-18
-
-### [Senior Enterprise Product Manager](https://www.linkedin.com/jobs/view/4303692497/) — Canary Technologies
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $160,000 - $200,000,
-- 🕒 **Posted:** 2026-09-18
-
-### [Group Product Manager - Code Security](https://www.linkedin.com/jobs/view/4469188851/) — Datadog
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $244,000—$305,000 USD
-- 🕒 **Posted:** 2026-09-18
-
-### [Senior Associate, Product Manager - Card Capabilities (Business Cards & Payments)](https://www.linkedin.com/jobs/view/4441649504/) — Capital One
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $111,200 - $126,900
-- 🕒 **Posted:** 2026-09-18
-
-### [Vice President of Product Management](https://www.linkedin.com/jobs/view/4469186666/) — Wenham Carter
+### [Head of Product - Document Processing](https://www.linkedin.com/jobs/view/4462306441/) — Continuous
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-18
 
-### [Vice President of Product Development](https://www.linkedin.com/jobs/view/4466695804/) — Bitget.US
+### [Director, Field Product Management](https://www.linkedin.com/jobs/view/4469224517/) — Halborn
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-18
 
-### [Chief Product Officer](https://www.linkedin.com/jobs/view/4461872422/) — D Classy Clicks by a2z Events
+### [Senior Director Technical Product Management, Core Systems and Enterprise Development Remote](https://www.linkedin.com/jobs/view/4460546714/) — BCD Travel
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-18
 
-### [Director of Product, Governance & Compliance](https://www.linkedin.com/jobs/view/4458651198/) — Vanta
+### [Senior Director, Product Management - Enterprise Services & Supplier Product, Risk & Operations](https://www.linkedin.com/jobs/view/4469222606/) — Capital One
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $269,600 - $307,700
+- 🕒 **Posted:** 2026-09-18
+
+### [Sr. Product Manager - Tech, AI, R2L AI Product](https://www.linkedin.com/jobs/view/4460133419/) — Amazon
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-09-18
+
+### [Senior Product Manager](https://www.linkedin.com/jobs/view/4469219502/) — Sotheby's Institute of Art
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $140,000-$150,000
+- 🕒 **Posted:** 2026-09-18
+
+### [Senior Product Manager, Customer Care AI](https://www.linkedin.com/jobs/view/4469207537/) — Lyft
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $148,000-185,000/year
+- 🕒 **Posted:** 2026-09-18
+
+### [Senior Product Manager - AI Infrastructure & Agentic Systems](https://www.linkedin.com/jobs/view/4465804910/) — Striveworks
+- 📍 **Location:** Austin, Texas Metropolitan Area
+- 💰 **Salary:** $155,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-09-18
+
+### [Senior Product Manager](https://www.linkedin.com/jobs/view/4363054010/) — Fluxon
+- 📍 **Location:** United States
+- 💰 **Salary:** $160,000- $200,000 USD per year
+- 🕒 **Posted:** 2026-09-18
+
+### [Head of Product Marketing](https://www.linkedin.com/jobs/view/4469236014/) — DriveCentric
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-18
 
-### [Senior Manager/Director, Product - Developer Platform](https://www.linkedin.com/jobs/view/4419976895/) — Runway
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-18
-
-### [Director of Product Strategy](https://www.linkedin.com/jobs/view/4466904635/) — VYSE
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-18
-
-### [Sr. Product Manager](https://www.linkedin.com/jobs/view/4449325155/) — PBS
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-18
-
-### [Senior Principal AI Product Manager](https://www.linkedin.com/jobs/view/4458908354/) — Associated Bank
-- 📍 **Location:** Green Bay, Wisconsin Metropolitan Area
-- 💰 **Salary:** $138,110.00 - $236,760.00 per year
-- 🕒 **Posted:** 2026-09-18
-
-### [Principal Applied AI Product Manager](https://www.linkedin.com/jobs/view/4458695850/) — Associated Bank
-- 📍 **Location:** Green Bay, Wisconsin Metropolitan Area
-- 💰 **Salary:** $103,670.00 - $177,720.00 per year
-- 🕒 **Posted:** 2026-09-18
-
-### [Principal Product Manager (Dataplane)](https://www.linkedin.com/jobs/view/4448074572/) — Tailscale
-- 📍 **Location:** United States
-- 💰 **Salary:** $197,000—$246,000 USD
-- 🕒 **Posted:** 2026-09-18
-
-### [Senior Product Manager - Cloud Infrastructure](https://www.linkedin.com/jobs/view/4458021188/) — Okta
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $189,000 USD - $260,000 USD
-- 🕒 **Posted:** 2026-09-18
-
-### [Senior SEO Product Manager, StreetEasy](https://www.linkedin.com/jobs/view/4450286224/) — StreetEasy
-- 📍 **Location:** United States
-- 💰 **Salary:** $118,600.00 - $189,400.00 annually
+### [Sr. Product Manager - Tech, AI, Sub Same Day](https://www.linkedin.com/jobs/view/4460138422/) — Amazon
+- 📍 **Location:** New York, United States
 - 🕒 **Posted:** 2026-09-18
