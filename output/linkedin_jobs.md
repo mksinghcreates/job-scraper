@@ -1,96 +1,52 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-09-18 19:56 UTC*
+*Last updated: 2026-09-18 22:51 UTC*
 
-**20 new role(s)** since last run · 20 total in last 1h
+**10 new role(s)** since last run · 10 total in last 1h
 
-### [Senior Vice President, ETF Product Management](https://www.linkedin.com/jobs/view/4469226038/) — BNY
+### [VP, Product, Retail](https://www.linkedin.com/jobs/view/4469244990/) — Warner Bros. Discovery
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $210,000 - $390,000 per year
 - 🕒 **Posted:** 2026-09-18
 
-### [Director, FX and Money Markets Operations Product Owner - COO Group](https://www.linkedin.com/jobs/view/4469203959/) — RBC
+### [Senior Director, Product Marketing](https://www.linkedin.com/jobs/view/4469260504/) — Datadog
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $180,000 - 250,000
+- 💰 **Salary:** $300,000—$400,000 USD
 - 🕒 **Posted:** 2026-09-18
 
-### [Sr Manager, Product Management - Staff Operations](https://www.linkedin.com/jobs/view/4440997045/) — Capital One
+### [Senior Product Manager, Go-To-Market Systems](https://www.linkedin.com/jobs/view/4469259197/) — Reddit, Inc.
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,700 - $229,100
+- 💰 **Salary:** $154,700—$216,600 USD
 - 🕒 **Posted:** 2026-09-18
 
-### [Senior Manager, Product Manager, Customer Restrictions-Product Manager](https://www.linkedin.com/jobs/view/4469214820/) — Capital One
+### [Senior Downstream Product Manager, Biologics (Hybrid)](https://www.linkedin.com/jobs/view/4463554680/) — Stryker
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,700 - $229,100
+- 💰 **Salary:** $123,100 - $205,200 USD
 - 🕒 **Posted:** 2026-09-18
 
-### [Senior Manager, Product Management - Enterprise Data](https://www.linkedin.com/jobs/view/4469222596/) — Capital One
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,700 - $229,100
-- 🕒 **Posted:** 2026-09-18
-
-### [Director, Product Design](https://www.linkedin.com/jobs/view/4469225086/) — BNY
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-18
-
-### [Director, Integrated Strategy (B2B)](https://www.linkedin.com/jobs/view/4468018050/) — Dentsu Creative
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $114,425-$145,000
-- 🕒 **Posted:** 2026-09-18
-
-### [Director, Product Management - Enterprise Services & Supplier Product, Risk & Operations](https://www.linkedin.com/jobs/view/4469222602/) — Capital One
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $230,400 - $263,000
-- 🕒 **Posted:** 2026-09-18
-
-### [VP, Technology Product Management](https://www.linkedin.com/jobs/view/4467899803/) — Wolters Kluwer
-- 📍 **Location:** Indianapolis, IN
-- 💰 **Salary:** $226,000.00 - $339,850.00 USD
-- 🕒 **Posted:** 2026-09-18
-
-### [Head of Product - Document Processing](https://www.linkedin.com/jobs/view/4462306441/) — Continuous
+### [VP of Product](https://www.linkedin.com/jobs/view/4467873052/) — The Leader Laboratory
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-18
 
-### [Director, Field Product Management](https://www.linkedin.com/jobs/view/4469224517/) — Halborn
+### [Senior Business Product Manager](https://www.linkedin.com/jobs/view/4469243473/) — Centene Corporation
+- 📍 **Location:** Missouri, United States
+- 💰 **Salary:** $107,700.00 - $199,300.00 per year
+- 🕒 **Posted:** 2026-09-18
+
+### [Program Director - Temporary Worker](https://www.linkedin.com/jobs/view/4468039128/) — dentsu
+- 📍 **Location:** Maryland, United States
+- 💰 **Salary:** $73.32 - $120.00
+- 🕒 **Posted:** 2026-09-18
+
+### [Director, Product Management, Partner Search](https://www.linkedin.com/jobs/view/4468021542/) — Yahoo
+- 📍 **Location:** United States
+- 💰 **Salary:** $150,380.00 - $327,025.00/yr
+- 🕒 **Posted:** 2026-09-18
+
+### [Head of Product, Agentic Workflows](https://www.linkedin.com/jobs/view/4468035283/) — ApartmentIQ
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-18
 
-### [Senior Director Technical Product Management, Core Systems and Enterprise Development Remote](https://www.linkedin.com/jobs/view/4460546714/) — BCD Travel
+### [Senior Director of Product Management, Endpoint Security and XDR](https://www.linkedin.com/jobs/view/4469245989/) — Elastic
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-18
-
-### [Senior Director, Product Management - Enterprise Services & Supplier Product, Risk & Operations](https://www.linkedin.com/jobs/view/4469222606/) — Capital One
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $269,600 - $307,700
-- 🕒 **Posted:** 2026-09-18
-
-### [Sr. Product Manager - Tech, AI, R2L AI Product](https://www.linkedin.com/jobs/view/4460133419/) — Amazon
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-09-18
-
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4469219502/) — Sotheby's Institute of Art
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $140,000-$150,000
-- 🕒 **Posted:** 2026-09-18
-
-### [Senior Product Manager, Customer Care AI](https://www.linkedin.com/jobs/view/4469207537/) — Lyft
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $148,000-185,000/year
-- 🕒 **Posted:** 2026-09-18
-
-### [Senior Product Manager - AI Infrastructure & Agentic Systems](https://www.linkedin.com/jobs/view/4465804910/) — Striveworks
-- 📍 **Location:** Austin, Texas Metropolitan Area
-- 💰 **Salary:** $155,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-09-18
-
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4363054010/) — Fluxon
-- 📍 **Location:** United States
-- 💰 **Salary:** $160,000- $200,000 USD per year
-- 🕒 **Posted:** 2026-09-18
-
-### [Head of Product Marketing](https://www.linkedin.com/jobs/view/4469236014/) — DriveCentric
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-18
-
-### [Sr. Product Manager - Tech, AI, Sub Same Day](https://www.linkedin.com/jobs/view/4460138422/) — Amazon
-- 📍 **Location:** New York, United States
+- 💰 **Salary:** $199,700.00/yr - $315,900.00/yr
 - 🕒 **Posted:** 2026-09-18
