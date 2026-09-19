@@ -1,52 +1,56 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-09-18 22:51 UTC*
+*Last updated: 2026-09-19 01:25 UTC*
 
-**10 new role(s)** since last run · 10 total in last 1h
+**11 new role(s)** since last run · 11 total in last 1h
 
-### [VP, Product, Retail](https://www.linkedin.com/jobs/view/4469244990/) — Warner Bros. Discovery
+### [Director, Product Line Management, Women’s Sneakers & Sport Footwear](https://www.linkedin.com/jobs/view/4469276681/) — Cole Haan
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $210,000 - $390,000 per year
-- 🕒 **Posted:** 2026-09-18
+- 💰 **Salary:** $180,000 to $200,000 annually
+- 🕒 **Posted:** 2026-09-19
 
-### [Senior Director, Product Marketing](https://www.linkedin.com/jobs/view/4469260504/) — Datadog
+### [Senior Product Line Manager, Women’s Value & Moderate Channels](https://www.linkedin.com/jobs/view/4469271837/) — Cole Haan
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $300,000—$400,000 USD
-- 🕒 **Posted:** 2026-09-18
+- 💰 **Salary:** $120,000 to $135,000 annually
+- 🕒 **Posted:** 2026-09-19
 
-### [Senior Product Manager, Go-To-Market Systems](https://www.linkedin.com/jobs/view/4469259197/) — Reddit, Inc.
+### [AML and Sanctions - Fenergo Principle Product Consultant - Senior Manager](https://www.linkedin.com/jobs/view/4469265442/) — PwC
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $154,700—$216,600 USD
-- 🕒 **Posted:** 2026-09-18
+- 💰 **Salary:** $124,000 - $280,000
+- 🕒 **Posted:** 2026-09-19
 
-### [Senior Downstream Product Manager, Biologics (Hybrid)](https://www.linkedin.com/jobs/view/4463554680/) — Stryker
+### [Sr. Product Manager, OXO](https://www.linkedin.com/jobs/view/4468054219/) — Helen of Troy
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $123,100 - $205,200 USD
-- 🕒 **Posted:** 2026-09-18
+- 💰 **Salary:** $114,882 - $135,000 annually
+- 🕒 **Posted:** 2026-09-19
 
-### [VP of Product](https://www.linkedin.com/jobs/view/4467873052/) — The Leader Laboratory
+### [Director, Product Marketing - Bathing Fixtures & Water Quality](https://www.linkedin.com/jobs/view/4463155373/) — Delta Faucet Company
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $121,300.00 - $190,630.00 USD
+- 🕒 **Posted:** 2026-09-19
+
+### [Director, CMC Product Development – Biologics](https://www.linkedin.com/jobs/view/4468047301/) — Beeline Medicines
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-18
+- 💰 **Salary:** $199,000 - $258,000 USD
+- 🕒 **Posted:** 2026-09-19
 
-### [Senior Business Product Manager](https://www.linkedin.com/jobs/view/4469243473/) — Centene Corporation
-- 📍 **Location:** Missouri, United States
-- 💰 **Salary:** $107,700.00 - $199,300.00 per year
-- 🕒 **Posted:** 2026-09-18
+### [AML and Sanctions - Fenergo Principle Product Consultant - Senior Manager](https://www.linkedin.com/jobs/view/4469270383/) — PwC
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $124,000 - $280,000
+- 🕒 **Posted:** 2026-09-19
 
-### [Program Director - Temporary Worker](https://www.linkedin.com/jobs/view/4468039128/) — dentsu
-- 📍 **Location:** Maryland, United States
-- 💰 **Salary:** $73.32 - $120.00
-- 🕒 **Posted:** 2026-09-18
-
-### [Director, Product Management, Partner Search](https://www.linkedin.com/jobs/view/4468021542/) — Yahoo
+### [Staff/Principal Product Manager, Patient Experience](https://www.linkedin.com/jobs/view/4469263731/) — Wheel
 - 📍 **Location:** United States
-- 💰 **Salary:** $150,380.00 - $327,025.00/yr
-- 🕒 **Posted:** 2026-09-18
+- 💰 **Salary:** $201,700-$301,700
+- 🕒 **Posted:** 2026-09-19
 
-### [Head of Product, Agentic Workflows](https://www.linkedin.com/jobs/view/4468035283/) — ApartmentIQ
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-18
+### [Principal Product Manager - Tech, Customer Purchase Journey](https://www.linkedin.com/jobs/view/4469276175/) — Amazon
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-09-19
 
-### [Senior Director of Product Management, Endpoint Security and XDR](https://www.linkedin.com/jobs/view/4469245989/) — Elastic
-- 📍 **Location:** United States
-- 💰 **Salary:** $199,700.00/yr - $315,900.00/yr
-- 🕒 **Posted:** 2026-09-18
+### [Principal Healthcare Solutions Architect, AI Solutions](https://www.linkedin.com/jobs/view/4469269417/) — Amazon Web Services (AWS)
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-09-19
+
+### [Vice President, Product Management, Core AI Foundations](https://www.linkedin.com/jobs/view/4468054306/) — Google
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-19
