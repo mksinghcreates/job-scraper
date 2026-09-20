@@ -1,39 +1,37 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-09-20 16:22 UTC*
+*Last updated: 2026-09-20 19:25 UTC*
 
-**8 new role(s)** since last run · 8 total in last 1h
+**7 new role(s)** since last run · 7 total in last 1h
 
-### [Human Capital Management (HCM) Strategy, Data Program Product Management, Vice President](https://www.linkedin.com/jobs/view/4414762554/) — Goldman Sachs
+### [Senior Vice President, Product Enablement — Product Practice](https://www.linkedin.com/jobs/view/4414992096/) — BNY
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-20
 
-### [Director, Product Management, Payroll](https://www.linkedin.com/jobs/view/4414989116/) — BNY
+### [Sr. Director, Product Management, UHNW Platform](https://www.linkedin.com/jobs/view/4439249712/) — Mercer Advisors
+- 📍 **Location:** United States
+- 💰 **Salary:** $190,000 - $210,000 USD
+- 🕒 **Posted:** 2026-09-20
+
+### [Senior Product Manager (Creatives)](https://www.linkedin.com/jobs/view/4433544099/) — StackAdapt
+- 📍 **Location:** United States
+- 💰 **Salary:** $144,000 USD - $198,000 USD
+- 🕒 **Posted:** 2026-09-20
+
+### [Group Product Manager, Product Analytics and Experimentation](https://www.linkedin.com/jobs/view/4442414443/) — H&R Block
+- 📍 **Location:** Missouri, United States
+- 💰 **Salary:** $125,500.00 - $200,800.00/Yr
+- 🕒 **Posted:** 2026-09-20
+
+### [Business Unit Control - Senior Product Manager](https://www.linkedin.com/jobs/view/4441360659/) — Millennium
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $160,000 to $250,000,
 - 🕒 **Posted:** 2026-09-20
 
-### [EY-Parthenon - Software Strategy Group - Product / Technology Due Diligence - Director](https://www.linkedin.com/jobs/view/4430646753/) — EY-Parthenon
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $205,000 to $235,000
-- 🕒 **Posted:** 2026-09-20
-
-### [Director, Product Management (New Business Experience)](https://www.linkedin.com/jobs/view/4450798467/) — Bestow
+### [Chief Product Officer](https://www.linkedin.com/jobs/view/4468480324/) — InCharge Energy
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-20
 
-### [Director, Pediatric Product Delivery](https://www.linkedin.com/jobs/view/4443406102/) — Joint Commission
+### [Sr. Director, Product and Technology Partnerships](https://www.linkedin.com/jobs/view/4469809608/) — Semarchy
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-20
-
-### [Director of Product Management](https://www.linkedin.com/jobs/view/4468474133/) — Kalos Ventures
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-20
-
-### [Senior Product Manager, Marketing Agent](https://www.linkedin.com/jobs/view/4450504798/) — ChowNow
-- 📍 **Location:** United States
-- 💰 **Salary:** $158,000 - $200,000
-- 🕒 **Posted:** 2026-09-20
-
-### [Director, Product Management](https://www.linkedin.com/jobs/view/4438751775/) — Mastercard
-- 📍 **Location:** Purchase, NY
-- 💰 **Salary:** $156,000 - $265,000 USD
+- 💰 **Salary:** $225K to $250K
 - 🕒 **Posted:** 2026-09-20
