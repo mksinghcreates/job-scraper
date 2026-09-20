@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-09-20 00:17 UTC*
+*Last updated: 2026-09-20 05:04 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Chief Product Officer](https://www.linkedin.com/jobs/view/4468406776/) — InCharge Energy
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-19
+No new roles since the last run.
