@@ -1,102 +1,97 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-09-22 17:28 UTC*
+*Last updated: 2026-09-22 20:30 UTC*
 
-**22 new role(s)** since last run · 22 total in last 1h
+**20 new role(s)** since last run · 20 total in last 1h
 
-### [Custody Product Manager, VP, NEW YORK](https://www.linkedin.com/jobs/view/4469026125/) — Citi
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $129,840.00 - $194,760.00
-- 🕒 **Posted:** 2026-09-22
-
-### [Vice President SMB Card AI Product Strategy](https://www.linkedin.com/jobs/view/4470477047/) — PTR Global
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $175K–$225K
-- 🕒 **Posted:** 2026-09-22
-
-### [Senior Director of Payments Product](https://www.linkedin.com/jobs/view/4461265601/) — Etsy
+### [Group Product Manager - Risk and Compliance](https://www.linkedin.com/jobs/view/4468931185/) — Morgan & Morgan, P.A.
 - 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $220,000–$250,000 USD
 - 🕒 **Posted:** 2026-09-22
 
-### [Product Strategy and Operations Principal](https://www.linkedin.com/jobs/view/4469040096/) — Google
+### [Senior Product Manager - Investment Platform](https://www.linkedin.com/jobs/view/4458679302/) — Global X ETFs
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $222000 - $308000
+- 💰 **Salary:** $190,000-$210,000
 - 🕒 **Posted:** 2026-09-22
 
-### [Executive Director Financial Management Product Design](https://www.linkedin.com/jobs/view/4470461851/) — PTR Global
+### [Financial Services - Technology Consulting - Product Manager - Senior](https://www.linkedin.com/jobs/view/4468926477/) — EY
+- 📍 **Location:** Jericho, NY
+- 💰 **Salary:** $120,100 to $200,100
+- 🕒 **Posted:** 2026-09-22
+
+### [Financial Services - Technology Consulting - Product Manager - Senior](https://www.linkedin.com/jobs/view/4468937234/) — EY
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $200K–$255K
+- 💰 **Salary:** $120,100 to $200,100
 - 🕒 **Posted:** 2026-09-22
 
-### [Principal Data Scientist, Google Search](https://www.linkedin.com/jobs/view/4469017607/) — Google
+### [Head of Business Technology Engineering](https://www.linkedin.com/jobs/view/4469047439/) — Anthropic
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $307000 - $427000
+- 💰 **Salary:** $405,000—$485,000 USD
 - 🕒 **Posted:** 2026-09-22
 
-### [Senior Associate SMB Card Product Manager](https://www.linkedin.com/jobs/view/4470462957/) — PTR Global
+### [VP, Product Management](https://www.linkedin.com/jobs/view/4470499895/) — Stellar Health
+- 📍 **Location:** United States
+- 💰 **Salary:** $280,000.00/yr - $320,000.00/yr
+- 🕒 **Posted:** 2026-09-22
+
+### [Vice President of Product Management](https://www.linkedin.com/jobs/view/4469054340/) — American Vintners Wine Company
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-22
+
+### [Chief Product Officer](https://www.linkedin.com/jobs/view/4468923465/) — American Lithium Energy
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-22
+
+### [Director of Product Development](https://www.linkedin.com/jobs/view/4469054089/) — Confidential
+- 📍 **Location:** Indiana, United States
+- 💰 **Salary:** $170,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-09-22
+
+### [Group Product Manager – GRC & RMIS](https://www.linkedin.com/jobs/view/4470602916/) — Meds Talent LLC
+- 📍 **Location:** United States
+- 💰 **Salary:** $145,000.00/yr - $182,000.00/yr
+- 🕒 **Posted:** 2026-09-22
+
+### [VP, Product Marketing](https://www.linkedin.com/jobs/view/4469063215/) — EvenUp
+- 📍 **Location:** United States
+- 💰 **Salary:** $250,000.00/yr - $320,000.00/yr
+- 🕒 **Posted:** 2026-09-22
+
+### [Director, POM Product Management](https://www.linkedin.com/jobs/view/4470608008/) — BNY
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $249,500.00 - $281,000.00 per year
 - 🕒 **Posted:** 2026-09-22
 
-### [Curacity - Sr. Product Manager](https://www.linkedin.com/jobs/view/4470472596/) — Connecticut Innovations
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $140,000.00/yr - $150,000.00/yr
-- 🕒 **Posted:** 2026-09-22
-
-### [Vice President of Product Strategy](https://www.linkedin.com/jobs/view/4468199768/) — Spaceedge.io
+### [Chief Product Officer](https://www.linkedin.com/jobs/view/4467292276/) — DigniFi
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-22
 
-### [Vice President of Product Management](https://www.linkedin.com/jobs/view/4469204407/) — Parth-Fintech
+### [Senior Product Manager](https://www.linkedin.com/jobs/view/4469034675/) — Virtualitics
+- 📍 **Location:** District of Columbia, United States
+- 🕒 **Posted:** 2026-09-22
+
+### [Senior Product Manager, Advertising Product Performance Measurement](https://www.linkedin.com/jobs/view/4449820095/) — Bloomberg
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $150,000.00/yr - $175,000.00/yr
+- 🕒 **Posted:** 2026-09-22
+
+### [Principal Product Manager](https://www.linkedin.com/jobs/view/4468934078/) — Salt
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-22
 
-### [Vice President of Product Development](https://www.linkedin.com/jobs/view/4469025395/) — Bithumb.
+### [Director, Product Applications](https://www.linkedin.com/jobs/view/4469036873/) — Confidential
+- 📍 **Location:** Missouri, United States
+- 💰 **Salary:** $170,000.00/yr - $230,000.00/yr
+- 🕒 **Posted:** 2026-09-22
+
+### [Senior Product Manager- Agentic Commerce (Remote)](https://www.linkedin.com/jobs/view/4460442396/) — Progressive Leasing
+- 📍 **Location:** Utah, United States
+- 🕒 **Posted:** 2026-09-22
+
+### [Director, Product - XDR](https://www.linkedin.com/jobs/view/4468930377/) — Arctic Wolf
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-22
 
-### [Vice President of Product Design](https://www.linkedin.com/jobs/view/4470476131/) — SNAT AI LLC
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-22
-
-### [Director, Product Management - Secret Server/Vault](https://www.linkedin.com/jobs/view/4451190819/) — Delinea
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-22
-
-### [Director of Product Management](https://www.linkedin.com/jobs/view/4469037306/) — Agile Resources, Inc.
-- 📍 **Location:** United States
-- 💰 **Salary:** $145,000 - $175,000
-- 🕒 **Posted:** 2026-09-22
-
-### [Associate Director, Product Design](https://www.linkedin.com/jobs/view/4470466834/) — Attindas Hygiene Partners
-- 📍 **Location:** Delaware, OH
-- 🕒 **Posted:** 2026-09-22
-
-### [Director, Commerce & Retail Media](https://www.linkedin.com/jobs/view/4449314333/) — dentsu
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $99,500 -$150,000
-- 🕒 **Posted:** 2026-09-22
-
-### [Senior Product Manager, Digital](https://www.linkedin.com/jobs/view/4460214368/) — EXPRESS
-- 📍 **Location:** Columbus, Ohio Metropolitan Area
-- 🕒 **Posted:** 2026-09-22
-
-### [Senior Product Manager, Graykey](https://www.linkedin.com/jobs/view/4420222223/) — Magnet Forensics
-- 📍 **Location:** Florida, United States
-- 💰 **Salary:** $145,0000 - $195,000
-- 🕒 **Posted:** 2026-09-22
-
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4468912448/) — HardLoop
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-22
-
-### [Sr. Product Manager - Clinician Workflow](https://www.linkedin.com/jobs/view/4459251712/) — iRhythm Technologies, Inc.
-- 📍 **Location:** United States
-- 💰 **Salary:** $127,000.00 - $165,000.00
-- 🕒 **Posted:** 2026-09-22
-
-### [Senior Product Manager – Payments](https://www.linkedin.com/jobs/view/4469022560/) — GDT - General Datatech
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-22
-
-### [VP, Product Development](https://www.linkedin.com/jobs/view/4470466954/) — Sakana AI
-- 📍 **Location:** United States
+### [Financial Services - Technology Consulting - Product Manager - Senior](https://www.linkedin.com/jobs/view/4468933358/) — EY
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $120,100 to $200,100
 - 🕒 **Posted:** 2026-09-22
