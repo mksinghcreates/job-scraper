@@ -1,97 +1,59 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-09-22 20:30 UTC*
+*Last updated: 2026-09-22 23:17 UTC*
 
-**20 new role(s)** since last run · 20 total in last 1h
+**12 new role(s)** since last run · 12 total in last 1h
 
-### [Group Product Manager - Risk and Compliance](https://www.linkedin.com/jobs/view/4468931185/) — Morgan & Morgan, P.A.
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $220,000–$250,000 USD
-- 🕒 **Posted:** 2026-09-22
-
-### [Senior Product Manager - Investment Platform](https://www.linkedin.com/jobs/view/4458679302/) — Global X ETFs
+### [VP of Product Management](https://www.linkedin.com/jobs/view/4470624822/) — SpotOn
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $190,000-$210,000
+- 💰 **Salary:** $275,000.00/yr - $320,000.00/yr
 - 🕒 **Posted:** 2026-09-22
 
-### [Financial Services - Technology Consulting - Product Manager - Senior](https://www.linkedin.com/jobs/view/4468926477/) — EY
-- 📍 **Location:** Jericho, NY
-- 💰 **Salary:** $120,100 to $200,100
-- 🕒 **Posted:** 2026-09-22
-
-### [Financial Services - Technology Consulting - Product Manager - Senior](https://www.linkedin.com/jobs/view/4468937234/) — EY
+### [Vice President Product Manager: Client Platform Multi-Factor Authentication](https://www.linkedin.com/jobs/view/4469053933/) — Morgan Stanley
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $120,100 to $200,100
 - 🕒 **Posted:** 2026-09-22
 
-### [Head of Business Technology Engineering](https://www.linkedin.com/jobs/view/4469047439/) — Anthropic
+### [Vice President Product Manager: Client Platform Multi-Factor Authentication](https://www.linkedin.com/jobs/view/4469073056/) — Morgan Stanley
+- 📍 **Location:** Purchase, NY
+- 🕒 **Posted:** 2026-09-22
+
+### [Director, Product Management](https://www.linkedin.com/jobs/view/4470624775/) — Curinos
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $405,000—$485,000 USD
+- 💰 **Salary:** $180,000.00/yr - $190,000.00/yr
 - 🕒 **Posted:** 2026-09-22
 
-### [VP, Product Management](https://www.linkedin.com/jobs/view/4470499895/) — Stellar Health
-- 📍 **Location:** United States
-- 💰 **Salary:** $280,000.00/yr - $320,000.00/yr
-- 🕒 **Posted:** 2026-09-22
-
-### [Vice President of Product Management](https://www.linkedin.com/jobs/view/4469054340/) — American Vintners Wine Company
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-22
-
-### [Chief Product Officer](https://www.linkedin.com/jobs/view/4468923465/) — American Lithium Energy
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-22
-
-### [Director of Product Development](https://www.linkedin.com/jobs/view/4469054089/) — Confidential
-- 📍 **Location:** Indiana, United States
-- 💰 **Salary:** $170,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-09-22
-
-### [Group Product Manager – GRC & RMIS](https://www.linkedin.com/jobs/view/4470602916/) — Meds Talent LLC
-- 📍 **Location:** United States
-- 💰 **Salary:** $145,000.00/yr - $182,000.00/yr
-- 🕒 **Posted:** 2026-09-22
-
-### [VP, Product Marketing](https://www.linkedin.com/jobs/view/4469063215/) — EvenUp
-- 📍 **Location:** United States
-- 💰 **Salary:** $250,000.00/yr - $320,000.00/yr
-- 🕒 **Posted:** 2026-09-22
-
-### [Director, POM Product Management](https://www.linkedin.com/jobs/view/4470608008/) — BNY
+### [Director Product Management - Technical](https://www.linkedin.com/jobs/view/4468937697/) — Mastercard
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $249,500.00 - $281,000.00 per year
+- 💰 **Salary:** $187,000 - $318,000 USD
 - 🕒 **Posted:** 2026-09-22
 
-### [Chief Product Officer](https://www.linkedin.com/jobs/view/4467292276/) — DigniFi
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-22
-
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4469034675/) — Virtualitics
-- 📍 **Location:** District of Columbia, United States
-- 🕒 **Posted:** 2026-09-22
-
-### [Senior Product Manager, Advertising Product Performance Measurement](https://www.linkedin.com/jobs/view/4449820095/) — Bloomberg
+### [Senior Data Product Manager](https://www.linkedin.com/jobs/view/4469053807/) — Haystack
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000.00/yr - $175,000.00/yr
 - 🕒 **Posted:** 2026-09-22
 
-### [Principal Product Manager](https://www.linkedin.com/jobs/view/4468934078/) — Salt
+### [Principal Product Manager, Subrogation](https://www.linkedin.com/jobs/view/4470623938/) — CCC Intelligent Solutions
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $147,151.48 - $200,000.00
+- 🕒 **Posted:** 2026-09-22
+
+### [Senior Product Manager](https://www.linkedin.com/jobs/view/4470642234/) — Osmo
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-09-22
+
+### [AI Product & Engineering Vice President, Investment Banking](https://www.linkedin.com/jobs/view/4469075021/) — Cantor Fitzgerald
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $170,000- $200,000
+- 🕒 **Posted:** 2026-09-22
+
+### [Principal Product Manager, Ads](https://www.linkedin.com/jobs/view/4470639212/) — TeamSnap
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-22
 
-### [Director, Product Applications](https://www.linkedin.com/jobs/view/4469036873/) — Confidential
-- 📍 **Location:** Missouri, United States
-- 💰 **Salary:** $170,000.00/yr - $230,000.00/yr
+### [SENIOR GLOBAL PRODUCT MANAGER](https://www.linkedin.com/jobs/view/4469065531/) — The Carlisle Group (TCG)
+- 📍 **Location:** Wisconsin, United States
+- 💰 **Salary:** $145,000 - $200,000
 - 🕒 **Posted:** 2026-09-22
 
-### [Senior Product Manager- Agentic Commerce (Remote)](https://www.linkedin.com/jobs/view/4460442396/) — Progressive Leasing
-- 📍 **Location:** Utah, United States
-- 🕒 **Posted:** 2026-09-22
-
-### [Director, Product - XDR](https://www.linkedin.com/jobs/view/4468930377/) — Arctic Wolf
+### [Senior Product Manager- Growth](https://www.linkedin.com/jobs/view/4464149012/) — Vida Health
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-22
-
-### [Financial Services - Technology Consulting - Product Manager - Senior](https://www.linkedin.com/jobs/view/4468933358/) — EY
-- 📍 **Location:** Indianapolis, IN
-- 💰 **Salary:** $120,100 to $200,100
+- 💰 **Salary:** $150,000 - $160,000
 - 🕒 **Posted:** 2026-09-22
