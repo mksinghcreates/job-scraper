@@ -1,76 +1,57 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-09-21 22:42 UTC*
+*Last updated: 2026-09-22 01:06 UTC*
 
-**16 new role(s)** since last run · 16 total in last 1h
+**12 new role(s)** since last run · 13 total in last 1h
 
-### [Director, Prime Services Product Development](https://www.linkedin.com/jobs/view/4468157875/) — TD Securities
+### [Senior Digital Product Manager – Retention & Post-Purchase](https://www.linkedin.com/jobs/view/4470207859/) — Bombas
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $300,000 - $300,000 USD
-- 🕒 **Posted:** 2026-09-21
+- 🕒 **Posted:** 2026-09-22
 
-### [Principal / Director, Product Origination & Distribution Strategy, Insurance](https://www.linkedin.com/jobs/view/4468162721/) — KKR
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $160,000—$250,000 USD
-- 🕒 **Posted:** 2026-09-21
-
-### [Senior Product Manager (AI Agents)](https://www.linkedin.com/jobs/view/4468166682/) — Traba
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-21
-
-### [Vice President of Product](https://www.linkedin.com/jobs/view/4468169135/) — Here Media, Inc.
+### [Executive Director, Product Strategy and Execution](https://www.linkedin.com/jobs/view/4470219425/) — Trustmark
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-21
+- 💰 **Salary:** $136,933 - $204,463 per year
+- 🕒 **Posted:** 2026-09-22
 
-### [Chief Product Officer](https://www.linkedin.com/jobs/view/4468166158/) — ASAPP
+### [Vice President of Product Design](https://www.linkedin.com/jobs/view/4468774556/) — Azul Connections Inc.
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-22
+
+### [Sr Product Manager, Insurance SaaS Platform](https://www.linkedin.com/jobs/view/4470205779/) — DXC Technology
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-22
+
+### [Sr. Product Manager, Worldwide Grocery Stores (WWGS) - Location, Strategy & Analytics](https://www.linkedin.com/jobs/view/4470215318/) — Amazon
 - 📍 **Location:** New York, United States
-- 💰 **Salary:** $350,000 - $400,000
-- 🕒 **Posted:** 2026-09-21
+- 🕒 **Posted:** 2026-09-22
 
-### [Vice President of Product Design](https://www.linkedin.com/jobs/view/4468171075/) — Azul Connections Inc.
+### [Senior Product Manager, Data Governance](https://www.linkedin.com/jobs/view/4470200679/) — Toast
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-21
+- 💰 **Salary:** $159,000—$254,000 USD
+- 🕒 **Posted:** 2026-09-22
 
-### [Sr Director, Product Management](https://www.linkedin.com/jobs/view/4468165274/) — ConnectWise
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-21
-
-### [Senior Product Manager, Marketplace & Partner Ecosystem](https://www.linkedin.com/jobs/view/4469975945/) — Vultr
-- 📍 **Location:** United States
-- 💰 **Salary:** $185,000 - $205,000
-- 🕒 **Posted:** 2026-09-21
-
-### [Senior Software Product Manager, Strategic Defense](https://www.linkedin.com/jobs/view/4468162697/) — Anduril Industries
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $166,000—$220,000 USD
-- 🕒 **Posted:** 2026-09-21
-
-### [Senior Product Manager (Network Infrastructure)](https://www.linkedin.com/jobs/view/4466610937/) — Lumen Solutions Group Inc.
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-09-21
-
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4469972895/) — Suzy
-- 📍 **Location:** United States
-- 💰 **Salary:** $220,000 - $250,000
-- 🕒 **Posted:** 2026-09-21
-
-### [Senior Product Manager (Marketplace)](https://www.linkedin.com/jobs/view/4468156885/) — Traba
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-21
-
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4468158813/) — Libra Solutions
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-21
-
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4469980427/) — VRIZE
+### [Principal Applied Scientist, Humorphic Labs](https://www.linkedin.com/jobs/view/4470210512/) — Amazon Web Services (AWS)
 - 📍 **Location:** New York, United States
-- 💰 **Salary:** $150,000.00/yr - $180,000.00/yr
+- 🕒 **Posted:** 2026-09-22
+
+### [Senior Director, Architecture & Innovation - CBS](https://www.linkedin.com/jobs/view/4470229070/) — Salesforce
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $223,860 - $299,390 annually
+- 🕒 **Posted:** 2026-09-22
+
+### [Senior Product Manager II, Logistics](https://www.linkedin.com/jobs/view/4469996979/) — HelloFresh
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $1—$10 USD
 - 🕒 **Posted:** 2026-09-21
 
-### [VP, Product](https://www.linkedin.com/jobs/view/4468174378/) — Arsenal Growth Equity
-- 📍 **Location:** United States
+### [Senior AI Product Manager](https://www.linkedin.com/jobs/view/4470215013/) — GE Vernova
+- 📍 **Location:** Niskayuna, NY
 - 🕒 **Posted:** 2026-09-21
 
-### [Senior Product Manager, Platform](https://www.linkedin.com/jobs/view/4469985419/) — Vultr
+### [Senior Product Manager – USDPT](https://www.linkedin.com/jobs/view/4468175632/) — Western Union
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $140,000 to $180,000 USD per year
+- 🕒 **Posted:** 2026-09-21
+
+### [Director of Product](https://www.linkedin.com/jobs/view/4458456448/) — P-1 AI
 - 📍 **Location:** United States
-- 💰 **Salary:** $180,000 - $200,000
 - 🕒 **Posted:** 2026-09-21
