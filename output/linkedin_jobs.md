@@ -1,59 +1,55 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-09-22 23:17 UTC*
+*Last updated: 2026-09-23 01:46 UTC*
 
-**12 new role(s)** since last run · 12 total in last 1h
+**11 new role(s)** since last run · 11 total in last 1h
 
-### [VP of Product Management](https://www.linkedin.com/jobs/view/4470624822/) — SpotOn
+### [Director of Product, Growth](https://www.linkedin.com/jobs/view/4469076646/) — McAfee
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $275,000.00/yr - $320,000.00/yr
-- 🕒 **Posted:** 2026-09-22
+- 🕒 **Posted:** 2026-09-23
 
-### [Vice President Product Manager: Client Platform Multi-Factor Authentication](https://www.linkedin.com/jobs/view/4469053933/) — Morgan Stanley
+### [Product Management Senior Director](https://www.linkedin.com/jobs/view/4470659627/) — Salesforce
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-22
+- 💰 **Salary:** $218,400 - $365,200 annually
+- 🕒 **Posted:** 2026-09-23
 
-### [Vice President Product Manager: Client Platform Multi-Factor Authentication](https://www.linkedin.com/jobs/view/4469073056/) — Morgan Stanley
-- 📍 **Location:** Purchase, NY
-- 🕒 **Posted:** 2026-09-22
-
-### [Director, Product Management](https://www.linkedin.com/jobs/view/4470624775/) — Curinos
+### [Principal Product Manager - MoneyLion Marketplace](https://www.linkedin.com/jobs/view/4468948208/) — Gen
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $180,000.00/yr - $190,000.00/yr
-- 🕒 **Posted:** 2026-09-22
+- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-09-23
 
-### [Director Product Management - Technical](https://www.linkedin.com/jobs/view/4468937697/) — Mastercard
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $187,000 - $318,000 USD
-- 🕒 **Posted:** 2026-09-22
+### [Senior Director, Chief Operating Officer, Maestro](https://www.linkedin.com/jobs/view/4470664122/) — Salesforce
+- 📍 **Location:** Indianapolis, IN
+- 🕒 **Posted:** 2026-09-23
 
-### [Senior Data Product Manager](https://www.linkedin.com/jobs/view/4469053807/) — Haystack
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-22
+### [Director of Product Marketing – Genius (Small Business & Retail)](https://www.linkedin.com/jobs/view/4470653608/) — Global Payments Inc.
+- 📍 **Location:** Oklahoma City, OK
+- 💰 **Salary:** $170,000 - $180,000
+- 🕒 **Posted:** 2026-09-23
 
-### [Principal Product Manager, Subrogation](https://www.linkedin.com/jobs/view/4470623938/) — CCC Intelligent Solutions
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $147,151.48 - $200,000.00
-- 🕒 **Posted:** 2026-09-22
+### [VP Product Management, Teaching and Learning (OnCourse)](https://www.linkedin.com/jobs/view/4470634836/) — Clarivate
+- 📍 **Location:** Indianapolis, IN
+- 🕒 **Posted:** 2026-09-23
 
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4470642234/) — Osmo
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-09-22
-
-### [AI Product & Engineering Vice President, Investment Banking](https://www.linkedin.com/jobs/view/4469075021/) — Cantor Fitzgerald
+### [Sr. Product Manager Technical , Business Applications Solutions Engineering](https://www.linkedin.com/jobs/view/4470642593/) — Amazon
 - 📍 **Location:** New York, United States
-- 💰 **Salary:** $170,000- $200,000
-- 🕒 **Posted:** 2026-09-22
+- 🕒 **Posted:** 2026-09-23
 
-### [Principal Product Manager, Ads](https://www.linkedin.com/jobs/view/4470639212/) — TeamSnap
+### [Director, Product Design - AI & Context](https://www.linkedin.com/jobs/view/4469076944/) — Figma
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $290,000—$376,000 USD
+- 🕒 **Posted:** 2026-09-23
+
+### [Senior Product Manager - Payments](https://www.linkedin.com/jobs/view/4469074714/) — Clio
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-22
+- 💰 **Salary:** $137,500 to $186,100
+- 🕒 **Posted:** 2026-09-23
 
-### [SENIOR GLOBAL PRODUCT MANAGER](https://www.linkedin.com/jobs/view/4469065531/) — The Carlisle Group (TCG)
-- 📍 **Location:** Wisconsin, United States
-- 💰 **Salary:** $145,000 - $200,000
-- 🕒 **Posted:** 2026-09-22
+### [Senior Product Manager](https://www.linkedin.com/jobs/view/4468787528/) — Flexcar
+- 📍 **Location:** Massachusetts, United States
+- 💰 **Salary:** $115,000 - $164,000
+- 🕒 **Posted:** 2026-09-23
 
-### [Senior Product Manager- Growth](https://www.linkedin.com/jobs/view/4464149012/) — Vida Health
-- 📍 **Location:** United States
-- 💰 **Salary:** $150,000 - $160,000
+### [Senior Product Manager, Operations](https://www.linkedin.com/jobs/view/4470653142/) — Fetch
+- 📍 **Location:** Texas, United States
+- 💰 **Salary:** $145,000.00/yr - $155,000.00/yr
 - 🕒 **Posted:** 2026-09-22
