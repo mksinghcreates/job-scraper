@@ -1,82 +1,85 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-09-23 20:39 UTC*
+*Last updated: 2026-09-23 23:58 UTC*
 
 **17 new role(s)** since last run · 17 total in last 1h
 
-### [Senior Manager, Product Management - Customer Resiliency Web and Mobile App Experience Lead](https://www.linkedin.com/jobs/view/4471111414/) — Capital One
+### [Director of Product Operations](https://www.linkedin.com/jobs/view/4469365357/) — Angle Health
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-23
+
+### [Director of Product Program Management](https://www.linkedin.com/jobs/view/4471159022/) — Swooped
+- 📍 **Location:** United States
+- 💰 **Salary:** $180,000 – $220,000 annually
+- 🕒 **Posted:** 2026-09-23
+
+### [Senior Product Manager, Pricing](https://www.linkedin.com/jobs/view/4471138589/) — Best Buy
+- 📍 **Location:** Minnesota, United States
+- 💰 **Salary:** $111,850.00/yr - $198,250.00/yr
+- 🕒 **Posted:** 2026-09-23
+
+### [Senior Product Manager - Recommendations and Personalization](https://www.linkedin.com/jobs/view/4471137582/) — Best Buy
+- 📍 **Location:** Minnesota, United States
+- 💰 **Salary:** $111,850.00/yr - $198,250.00/yr
+- 🕒 **Posted:** 2026-09-23
+
+### [Director, Head of Product, Google Design Platform](https://www.linkedin.com/jobs/view/4469600969/) — Google
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,700 - $229,100
+- 💰 **Salary:** $281000 - $391000
 - 🕒 **Posted:** 2026-09-23
 
-### [Senior Business Manager - CDX Product Strategy](https://www.linkedin.com/jobs/view/4471105590/) — Capital One
+### [VP, Product](https://www.linkedin.com/jobs/view/4469603873/) — Arsenal Growth Equity
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-23
+
+### [Principal Product Manager — Ecosystem](https://www.linkedin.com/jobs/view/4469348860/) — Fanatics
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $182,500 - $208,300
+- 💰 **Salary:** $200,000 - $230,000 USD
 - 🕒 **Posted:** 2026-09-23
 
-### [Product Management Director - Salesforce Success Plans](https://www.linkedin.com/jobs/view/4470989891/) — Salesforce
+### [Principal Product Manager — Growth, Social & Community](https://www.linkedin.com/jobs/view/4469362297/) — Fanatics
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $197,300 - $313,700 annually
+- 💰 **Salary:** $200,000 - $230,000 USD
 - 🕒 **Posted:** 2026-09-23
 
-### [Vice President of Product Operations](https://www.linkedin.com/jobs/view/4469347449/) — Château Cailleton
+### [Technology Product Management - Senior  Vice President](https://www.linkedin.com/jobs/view/4469606695/) — Citi
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $192,000.00 - $288,000.00
+- 🕒 **Posted:** 2026-09-23
+
+### [Sr AI Product Director](https://www.linkedin.com/jobs/view/4471135628/) — Tensordyne
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-23
 
-### [Regional Vice President of Product Operations](https://www.linkedin.com/jobs/view/4469498516/) — Stoker Wines
+### [Senior Product Manager - Feature Flagging](https://www.linkedin.com/jobs/view/4471138385/) — Datadog
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $192,000—$240,000 USD
+- 🕒 **Posted:** 2026-09-23
+
+### [Sr. Product Manager - Chemical](https://www.linkedin.com/jobs/view/4469608743/) — iLocatum
+- 📍 **Location:** White Plains, NY
+- 💰 **Salary:** $123,000 to $153,000/year
+- 🕒 **Posted:** 2026-09-23
+
+### [Senior Product Manager, PolicyCenter](https://www.linkedin.com/jobs/view/4471121940/) — Guidewire Software
 - 📍 **Location:** United States
+- 💰 **Salary:** $148,000 - $254,000
 - 🕒 **Posted:** 2026-09-23
 
-### [Product Management Director - Protect, Connect and Watch](https://www.linkedin.com/jobs/view/4471106980/) — Rimini Street
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-23
-
-### [Senior Treasury Management Product Manager](https://www.linkedin.com/jobs/view/4471114127/) — First Merchants Corporation
-- 📍 **Location:** Texas, United States
-- 🕒 **Posted:** 2026-09-23
-
-### [Senior Product Strategy Manager](https://www.linkedin.com/jobs/view/4471114563/) — PowerSchool
-- 📍 **Location:** United States
-- 💰 **Salary:** $94,000 - $132,600 USD
-- 🕒 **Posted:** 2026-09-23
-
-### [Principal Product Manager](https://www.linkedin.com/jobs/view/4471125157/) — Qventus, Inc
-- 📍 **Location:** United States
-- 💰 **Salary:** $165,000 USD - $220,000 USD
-- 🕒 **Posted:** 2026-09-23
-
-### [Principal Product Lead](https://www.linkedin.com/jobs/view/4471109305/) — Unissant
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-09-23
-
-### [Enterprise Data Management Pioneer! – Senior Director, Product and Technology Partnerships - $250k - $275k Base – Remote, EST/CST](https://www.linkedin.com/jobs/view/4470989959/) — ScoutLab.io
-- 📍 **Location:** United States
-- 💰 **Salary:** $250k - $275k
-- 🕒 **Posted:** 2026-09-23
-
-### [Senior Product Go-To-Market (GTM) Manager](https://www.linkedin.com/jobs/view/4455750463/) — 3E
-- 📍 **Location:** Georgia, United States
-- 🕒 **Posted:** 2026-09-23
-
-### [Sr. Director, Product Marketing - Cresta Agents](https://www.linkedin.com/jobs/view/4471125128/) — Cresta
-- 📍 **Location:** United States
-- 💰 **Salary:** $220,000 - 260,000
-- 🕒 **Posted:** 2026-09-23
-
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4471110462/) — Harrison Gray Search
-- 📍 **Location:** United States
-- 💰 **Salary:** $130,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-09-23
-
-### [Senior Product Manager, Hardware](https://www.linkedin.com/jobs/view/4471106867/) — Standard Bots
+### [VP Strategy, Performance Creative](https://www.linkedin.com/jobs/view/4469620156/) — dentsu
 - 📍 **Location:** New York, United States
-- 💰 **Salary:** $160,000.00/yr - $225,000.00/yr
+- 💰 **Salary:** $164,450-$220,000
 - 🕒 **Posted:** 2026-09-23
 
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4469606148/) — Primis
+### [Senior Growth Product Manager](https://www.linkedin.com/jobs/view/4469623071/) — Centr
+- 📍 **Location:** United States
+- 💰 **Salary:** $150,000.00/yr - $180,000.00/yr
+- 🕒 **Posted:** 2026-09-23
+
+### [Senior Product Manager, In-Store Ad Products](https://www.linkedin.com/jobs/view/4471136581/) — Best Buy
 - 📍 **Location:** New York, United States
-- 💰 **Salary:** $160,000.00/yr - $210,000.00/yr
+- 💰 **Salary:** $111,850.00/yr - $198,250.00/yr
 - 🕒 **Posted:** 2026-09-23
 
-### [Senior Product Manager, Accounting (Remote)](https://www.linkedin.com/jobs/view/4469495213/) — Rentvine
-- 📍 **Location:** Florida, United States
+### [Director of Product Management](https://www.linkedin.com/jobs/view/4471143710/) — EverC
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-23
