@@ -1,158 +1,82 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-09-23 17:48 UTC*
+*Last updated: 2026-09-23 20:39 UTC*
 
-**33 new role(s)** since last run · 33 total in last 1h
+**17 new role(s)** since last run · 17 total in last 1h
 
-### [Product Owner Crypto - Assistant Vice President](https://www.linkedin.com/jobs/view/4470979337/) — Morgan Stanley
-- 📍 **Location:** Purchase, NY
-- 🕒 **Posted:** 2026-09-23
-
-### [Sr. Lead Product Manager](https://www.linkedin.com/jobs/view/4461788324/) — Early Warning
+### [Senior Manager, Product Management - Customer Resiliency Web and Mobile App Experience Lead](https://www.linkedin.com/jobs/view/4471111414/) — Capital One
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000 - $200,000
+- 💰 **Salary:** $200,700 - $229,100
 - 🕒 **Posted:** 2026-09-23
 
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4451987228/) — Savvy Wealth
+### [Senior Business Manager - CDX Product Strategy](https://www.linkedin.com/jobs/view/4471105590/) — Capital One
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $190K - $225K
+- 💰 **Salary:** $182,500 - $208,300
 - 🕒 **Posted:** 2026-09-23
 
-### [Senior Product Manager, Salesforce](https://www.linkedin.com/jobs/view/4470968649/) — Uncommon Schools
+### [Product Management Director - Salesforce Success Plans](https://www.linkedin.com/jobs/view/4470989891/) — Salesforce
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $117,200.00/yr - $142,000.00/yr
+- 💰 **Salary:** $197,300 - $313,700 annually
 - 🕒 **Posted:** 2026-09-23
 
-### [Senior Product Manager, Student Experience](https://www.linkedin.com/jobs/view/4470966989/) — Stepful
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $143,000-$181,000
-- 🕒 **Posted:** 2026-09-23
-
-### [Capital Markets Product Owner - Assistant Vice President](https://www.linkedin.com/jobs/view/4469473496/) — Morgan Stanley
-- 📍 **Location:** Purchase, NY
-- 🕒 **Posted:** 2026-09-23
-
-### [VP of Product](https://www.linkedin.com/jobs/view/4469486234/) — PINNACLE FINANCIAL ADVISORS OF AMERICA, LLC
+### [Vice President of Product Operations](https://www.linkedin.com/jobs/view/4469347449/) — Château Cailleton
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-23
 
-### [Vice President of Product Strategy](https://www.linkedin.com/jobs/view/4470976348/) — BAB MEDICAL CARE COMPANY
+### [Regional Vice President of Product Operations](https://www.linkedin.com/jobs/view/4469498516/) — Stoker Wines
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-23
 
-### [Senior Director, Product - Oncology](https://www.linkedin.com/jobs/view/4469477359/) — Viz.ai
-- 📍 **Location:** United States
-- 💰 **Salary:** $200,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-09-23
-
-### [Vice President, Logging Analytics, OCI, NA](https://www.linkedin.com/jobs/view/4469328822/) — Oracle
-- 📍 **Location:** United States
-- 💰 **Salary:** $212,900 - $480,700 per year
-- 🕒 **Posted:** 2026-09-23
-
-### [Associate Director of Product Development](https://www.linkedin.com/jobs/view/4462425626/) — YipitData
+### [Product Management Director - Protect, Connect and Watch](https://www.linkedin.com/jobs/view/4471106980/) — Rimini Street
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-23
 
-### [Director, Product Management - Client Experience](https://www.linkedin.com/jobs/view/4462408681/) — Progyny, Inc.
-- 📍 **Location:** United States
-- 💰 **Salary:** $175,000 - $195,000
-- 🕒 **Posted:** 2026-09-23
-
-### [Director of Product Management, Data Integrations](https://www.linkedin.com/jobs/view/4460976630/) — Movable Ink
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $220,000 USD - $287,000 USD/year
-- 🕒 **Posted:** 2026-09-23
-
-### [Director, Product Line Management](https://www.linkedin.com/jobs/view/4469335225/) — CACI International Inc
-- 📍 **Location:** Rochester, NY
-- 💰 **Salary:** $137,400-$302,300
-- 🕒 **Posted:** 2026-09-23
-
-### [Vice President of Product Strategy](https://www.linkedin.com/jobs/view/4469317670/) — City of Malabon University
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-23
-
-### [Principal Product Manager](https://www.linkedin.com/jobs/view/4460691356/) — GitHub
-- 📍 **Location:** United States
-- 💰 **Salary:** USD $160,200.00 - USD $425,000.00 /Yr
-- 🕒 **Posted:** 2026-09-23
-
-### [Director of Tax Strategy, Product](https://www.linkedin.com/jobs/view/4453004087/) — Exponent Partners
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $160,000 - $200,000
-- 🕒 **Posted:** 2026-09-23
-
-### [Principal Product Manager, Messaging & Communities](https://www.linkedin.com/jobs/view/4470969397/) — LinkedIn
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $187,000 to $305,000
-- 🕒 **Posted:** 2026-09-23
-
-### [Nonprofit Product Design Director 5446](https://www.linkedin.com/jobs/view/4469313767/) — Tier4 Group
-- 📍 **Location:** United States
-- 💰 **Salary:** $150,000.00/yr - $170,000.00/yr
-- 🕒 **Posted:** 2026-09-23
-
-### [Director Upstream Product Marketing PSMA Late Stage](https://www.linkedin.com/jobs/view/4460660094/) — Telix Pharmaceuticals Limited
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-23
-
-### [Senior Product Manager — Remix Platform](https://www.linkedin.com/jobs/view/4402308014/) — Via
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000-$200,000,
-- 🕒 **Posted:** 2026-09-23
-
-### [Vice President of Product Design](https://www.linkedin.com/jobs/view/4469320557/) — Robinhood Crypto.
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-23
-
-### [Senior Product Manager, Federal](https://www.linkedin.com/jobs/view/4461792501/) — Armada
-- 📍 **Location:** United States
-- 💰 **Salary:** $157,596 - $196.99
-- 🕒 **Posted:** 2026-09-23
-
-### [Principal Technical Program Manager - FDE](https://www.linkedin.com/jobs/view/4453100616/) — Microsoft
-- 📍 **Location:** United States
-- 💰 **Salary:** USD $142,800 - $274,800 per year
-- 🕒 **Posted:** 2026-09-23
-
-### [Senior Product Manager I (Applied AI)](https://www.linkedin.com/jobs/view/4470967867/) — Housecall Pro
-- 📍 **Location:** United States
-- 💰 **Salary:** $136,000-$169,000
-- 🕒 **Posted:** 2026-09-23
-
-### [Senior Manager - Digital Product Management](https://www.linkedin.com/jobs/view/4469484406/) — American Express
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $123,000.00/yr - $215,250.00/yr
-- 🕒 **Posted:** 2026-09-23
-
-### [Senior Product Manager II (Growth)](https://www.linkedin.com/jobs/view/4470980509/) — Housecall Pro
-- 📍 **Location:** United States
-- 💰 **Salary:** $144,000-$179,000
-- 🕒 **Posted:** 2026-09-23
-
-### [Vice President of Product Management](https://www.linkedin.com/jobs/view/4469339359/) — Aznio
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-23
-
-### [VP of Digital Product](https://www.linkedin.com/jobs/view/4469469794/) — Birdy Grey
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-23
-
-### [Human Capital Management (HCM) Strategy, Artificial Intelligence (AI) Product Strategist, Vice President, New York City](https://www.linkedin.com/jobs/view/4403773108/) — Goldman Sachs
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $100000-$250000
-- 🕒 **Posted:** 2026-09-23
-
-### [Principal Product Owner - ServiceNow](https://www.linkedin.com/jobs/view/4453148080/) — The Depository Trust & Clearing Corporation (DTCC)
+### [Senior Treasury Management Product Manager](https://www.linkedin.com/jobs/view/4471114127/) — First Merchants Corporation
 - 📍 **Location:** Texas, United States
 - 🕒 **Posted:** 2026-09-23
 
-### [Senior Manager, Product Management, Virtual Meetings](https://www.linkedin.com/jobs/view/4443384454/) — Capital One
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $182,500 - $208,300
+### [Senior Product Strategy Manager](https://www.linkedin.com/jobs/view/4471114563/) — PowerSchool
+- 📍 **Location:** United States
+- 💰 **Salary:** $94,000 - $132,600 USD
 - 🕒 **Posted:** 2026-09-23
 
-### [Senior Manager, Product Management - Machine Learning and AI](https://www.linkedin.com/jobs/view/4443381614/) — Capital One
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $182,500 - $208,300
+### [Principal Product Manager](https://www.linkedin.com/jobs/view/4471125157/) — Qventus, Inc
+- 📍 **Location:** United States
+- 💰 **Salary:** $165,000 USD - $220,000 USD
+- 🕒 **Posted:** 2026-09-23
+
+### [Principal Product Lead](https://www.linkedin.com/jobs/view/4471109305/) — Unissant
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-09-23
+
+### [Enterprise Data Management Pioneer! – Senior Director, Product and Technology Partnerships - $250k - $275k Base – Remote, EST/CST](https://www.linkedin.com/jobs/view/4470989959/) — ScoutLab.io
+- 📍 **Location:** United States
+- 💰 **Salary:** $250k - $275k
+- 🕒 **Posted:** 2026-09-23
+
+### [Senior Product Go-To-Market (GTM) Manager](https://www.linkedin.com/jobs/view/4455750463/) — 3E
+- 📍 **Location:** Georgia, United States
+- 🕒 **Posted:** 2026-09-23
+
+### [Sr. Director, Product Marketing - Cresta Agents](https://www.linkedin.com/jobs/view/4471125128/) — Cresta
+- 📍 **Location:** United States
+- 💰 **Salary:** $220,000 - 260,000
+- 🕒 **Posted:** 2026-09-23
+
+### [Senior Product Manager](https://www.linkedin.com/jobs/view/4471110462/) — Harrison Gray Search
+- 📍 **Location:** United States
+- 💰 **Salary:** $130,000.00/yr - $180,000.00/yr
+- 🕒 **Posted:** 2026-09-23
+
+### [Senior Product Manager, Hardware](https://www.linkedin.com/jobs/view/4471106867/) — Standard Bots
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $160,000.00/yr - $225,000.00/yr
+- 🕒 **Posted:** 2026-09-23
+
+### [Senior Product Manager](https://www.linkedin.com/jobs/view/4469606148/) — Primis
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $160,000.00/yr - $210,000.00/yr
+- 🕒 **Posted:** 2026-09-23
+
+### [Senior Product Manager, Accounting (Remote)](https://www.linkedin.com/jobs/view/4469495213/) — Rentvine
+- 📍 **Location:** Florida, United States
 - 🕒 **Posted:** 2026-09-23
