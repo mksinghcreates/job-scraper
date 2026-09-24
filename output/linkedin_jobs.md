@@ -1,78 +1,79 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-09-24 17:29 UTC*
+*Last updated: 2026-09-24 20:45 UTC*
 
 **16 new role(s)** since last run · 16 total in last 1h
 
-### [AI Product Senior Director](https://www.linkedin.com/jobs/view/4460741202/) — FanDuel
+### [Sr. Director of Product Management - DV Publisher Suite](https://www.linkedin.com/jobs/view/4470036260/) — DoubleVerify
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $219,000 - $336,000
+- 🕒 **Posted:** 2026-09-24
+
+### [Confluent - Director, Product Led Growth Marketing](https://www.linkedin.com/jobs/view/4469783388/) — IBM
+- 📍 **Location:** Armonk, NY
+- 💰 **Salary:** $158,000.00/yr - $296,000.00/yr
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior Product Manager, Member Experience](https://www.linkedin.com/jobs/view/4471656871/) — Atria Health and Research Institute
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $230,000 - $302,000 USD
+- 💰 **Salary:** $170,000 - $220,000
 - 🕒 **Posted:** 2026-09-24
 
-### [Director of Product, Marketing Technology](https://www.linkedin.com/jobs/view/4471629332/) — 1-800-FLOWERS.COM, INC.
+### [Senior Product Manager, Generative AI, Google Cloud](https://www.linkedin.com/jobs/view/4470012958/) — Google
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $192000 - $278000
 - 🕒 **Posted:** 2026-09-24
 
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4470011335/) — Cypress HCM
+### [Senior Product Manager, SMB Platform](https://www.linkedin.com/jobs/view/4471669834/) — Clera
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $130K - $150K
+- 💰 **Salary:** $160,000 to $200,000 USD annually
 - 🕒 **Posted:** 2026-09-24
 
-### [Chief Product Officer](https://www.linkedin.com/jobs/view/4469777173/) — FINTECH WALLAH
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-24
-
-### [Director of Product Development](https://www.linkedin.com/jobs/view/4471104243/) — Pelagic
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-24
-
-### [Director, Delivery & Release Management, Digital Product Operations](https://www.linkedin.com/jobs/view/4453334760/) — The College Board
-- 📍 **Location:** United States
-- 💰 **Salary:** $88,000 - $145,000
-- 🕒 **Posted:** 2026-09-24
-
-### [Sr Product Manager - Healthcare AI](https://www.linkedin.com/jobs/view/4471607999/) — McKesson
-- 📍 **Location:** Florida, United States
-- 💰 **Salary:** $119,300 - $198,800
-- 🕒 **Posted:** 2026-09-24
-
-### [Principal - Product Manager](https://www.linkedin.com/jobs/view/4471626141/) — Nasdaq
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $155,000 - $287,000
-- 🕒 **Posted:** 2026-09-24
-
-### [Senior Lead Product Manager, Developer Platform](https://www.linkedin.com/jobs/view/4471619256/) — PayPal
+### [Senior Product Manager, Banking](https://www.linkedin.com/jobs/view/4471686032/) — Clera
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $196,500.00 - $291,500.00 Annually
+- 💰 **Salary:** $160,000 to $200,000 USD annually
 - 🕒 **Posted:** 2026-09-24
 
-### [Senior Product Manager - Generative AI Tech Services](https://www.linkedin.com/jobs/view/4471620423/) — The D. E. Shaw Group
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $230,000 to $300,000
-- 🕒 **Posted:** 2026-09-24
-
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4469688878/) — Accumulus Technologies
-- 📍 **Location:** United States
-- 💰 **Salary:** $150,000 - $170,000 per year
-- 🕒 **Posted:** 2026-09-24
-
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4447210938/) — Assembled
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-24
-
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4469751900/) — Health Payment Systems, Inc.
+### [Chief Product Officer](https://www.linkedin.com/jobs/view/4470040151/) — InGameJob.com
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-24
 
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4465209169/) — MediaRadar, Inc.
+### [Associate Director, Technology Product Management](https://www.linkedin.com/jobs/view/4470036051/) — Wolters Kluwer
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $133,400.00 - $238,400.00 USD
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior Director, Product Management - IDP](https://www.linkedin.com/jobs/view/4460558900/) — Tungsten Automation
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-24
 
-### [Director - AI Product Manager - AI Product Frameworks](https://www.linkedin.com/jobs/view/4461380434/) — Edward Jones
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $172,800.00/yr - $294,100.00/yr
+### [Director, Product Management - EDR](https://www.linkedin.com/jobs/view/4469780654/) — Arctic Wolf
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-24
 
-### [Senior Director, Pooled Plans Product Development](https://www.linkedin.com/jobs/view/4450182214/) — Aegon
+### [Head of Product Engineering](https://www.linkedin.com/jobs/view/4470017818/) — IMMENSITY
 - 📍 **Location:** United States
-- 💰 **Salary:** $200,000 - $225,000 annually
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior Product Strategy Manager](https://www.linkedin.com/jobs/view/4471683217/) — PowerSchool
+- 📍 **Location:** United States
+- 💰 **Salary:** $94,000 - $132,600 USD
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior Product Manager - Switchboards](https://www.linkedin.com/jobs/view/4469767789/) — FTI
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior Technical Product Manager](https://www.linkedin.com/jobs/view/4471657880/) — MeeBoss
+- 📍 **Location:** United States
+- 💰 **Salary:** $170K–$250K
+- 🕒 **Posted:** 2026-09-24
+
+### [Product Development Director (P&C Auto)](https://www.linkedin.com/jobs/view/4469794005/) — USAA
+- 📍 **Location:** Colorado Springs, CO
+- 💰 **Salary:** $127,310 - $243,340
+- 🕒 **Posted:** 2026-09-24
+
+### [Product Management Director - Life Company Medicare Supplement Products](https://www.linkedin.com/jobs/view/4469784473/) — USAA
+- 📍 **Location:** Colorado Springs, CO
+- 💰 **Salary:** $143,320 - $273,930
 - 🕒 **Posted:** 2026-09-24
