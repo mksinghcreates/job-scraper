@@ -1,108 +1,84 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-09-25 17:30 UTC*
+*Last updated: 2026-09-25 20:46 UTC*
 
-**23 new role(s)** since last run · 23 total in last 1h
+**18 new role(s)** since last run · 18 total in last 1h
 
-### [Vice President, Product Management, Stablecoins and Open Standard](https://www.linkedin.com/jobs/view/4461107649/) — Mastercard
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $245,000 - $391,000 USD
-- 🕒 **Posted:** 2026-09-25
-
-### [Director - AI Product Manager - AI Controls & Observability](https://www.linkedin.com/jobs/view/4461939920/) — Edward Jones
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $172,800.00/yr - $294,100.00/yr
-- 🕒 **Posted:** 2026-09-25
-
-### [Senior Product Manager, Image Search](https://www.linkedin.com/jobs/view/4470338118/) — Google
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $192000 - $278000
-- 🕒 **Posted:** 2026-09-25
-
-### [Senior Product Manager - UI Platform](https://www.linkedin.com/jobs/view/4460731795/) — Okta
-- 📍 **Location:** New City, NY
-- 💰 **Salary:** $169,000 USD - $232,000 USD
-- 🕒 **Posted:** 2026-09-25
-
-### [Vice President of Product Development](https://www.linkedin.com/jobs/view/4470321758/) — Professional Wealth Management
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-25
-
-### [Vice President of Product Design](https://www.linkedin.com/jobs/view/4470180557/) — Octacs Systems
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-25
-
-### [Deputy Program Director – Power Systems Product Value Stream](https://www.linkedin.com/jobs/view/4460752857/) — BAE Systems, Inc.
-- 📍 **Location:** Endicott, NY
-- 💰 **Salary:** $153377 - $260743
-- 🕒 **Posted:** 2026-09-25
-
-### [Director of Product Development](https://www.linkedin.com/jobs/view/4470326537/) — OKBit Service, Inc.
-- 📍 **Location:** Oklahoma, United States
-- 🕒 **Posted:** 2026-09-25
-
-### [Vice President of Product Operations](https://www.linkedin.com/jobs/view/4472042745/) — Fintech Future
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-25
-
-### [Senior Product Operations Manager](https://www.linkedin.com/jobs/view/4453266813/) — Harvey
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $155,400 - $233,200 USD
-- 🕒 **Posted:** 2026-09-25
-
-### [Director, Product Management, Ratings Platform & APIs (New York)](https://www.linkedin.com/jobs/view/4443159715/) — Fitch Solutions
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-25
-
-### [Senior Manager, Product Manager - AI Acceleration](https://www.linkedin.com/jobs/view/4454524986/) — Capital One
+### [Senior Manager, Product Management - Cloud Runtimes & Operations Enterprise (CORE)](https://www.linkedin.com/jobs/view/4472081224/) — Capital One
 - 📍 **Location:** New York, NY
 - 💰 **Salary:** $200,700 - $229,100
 - 🕒 **Posted:** 2026-09-25
 
-### [Director, Enabling Tech Product Management (Upstream Marketing)](https://www.linkedin.com/jobs/view/4472031475/) — Enovis
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-25
-
-### [Director of Product Management](https://www.linkedin.com/jobs/view/4472036360/) — PrimaLoft
-- 📍 **Location:** Latham, NY
-- 🕒 **Posted:** 2026-09-25
-
-### [Senior Product Manager – Community Intelligence](https://www.linkedin.com/jobs/view/4460760849/) — Bloomberg
+### [Senior Manager, Product Management - Feature Flagging and Experimentation Platform](https://www.linkedin.com/jobs/view/4472081219/) — Capital One
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $140,000.00/yr - $295,000.00/yr
+- 💰 **Salary:** $182,500 - $208,300
 - 🕒 **Posted:** 2026-09-25
 
-### [Senior Product Manager- SaaS](https://www.linkedin.com/jobs/view/4470323590/) — iSpace, Inc.
+### [Senior Product Manager](https://www.linkedin.com/jobs/view/4472075650/) — Avantos.ai
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $75.00/hr - $85.00/hr
 - 🕒 **Posted:** 2026-09-25
 
-### [Staff /Principal Product Manager - Data and Storage](https://www.linkedin.com/jobs/view/4442934506/) — Render
+### [Senior Product Manager, New Product Line](https://www.linkedin.com/jobs/view/4470391617/) — Alia
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-25
+
+### [Senior Product Manager – Digital Payments](https://www.linkedin.com/jobs/view/4472080690/) — Incedo Inc.
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-25
+
+### [Senior Product Manager (AI) - General Opportunity](https://www.linkedin.com/jobs/view/4470188711/) — Blink UX
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $145,000 - $185,000
+- 🕒 **Posted:** 2026-09-25
+
+### [VP of Product - Software](https://www.linkedin.com/jobs/view/4470181813/) — 4MP Inc
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-25
 
-### [Senior AI Product Manager – Revenue Cycle AI Agent Platform](https://www.linkedin.com/jobs/view/4472058044/) — Arkhya Tech Inc.
+### [Head of Data and Product](https://www.linkedin.com/jobs/view/4470307824/) — BlackJet Marketing
+- 📍 **Location:** United States
+- 💰 **Salary:** $230,000 to $260,000
+- 🕒 **Posted:** 2026-09-25
+
+### [Director / Associate Director of Product Management, Consumer Apps](https://www.linkedin.com/jobs/view/4472086621/) — Eli Lilly and Company
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $132,000 - $193,600
+- 🕒 **Posted:** 2026-09-25
+
+### [Director / Associate Director of Product Management, Consumer Apps](https://www.linkedin.com/jobs/view/4472090504/) — Eli Lilly and Company
+- 📍 **Location:** Indiana, United States
+- 💰 **Salary:** $132,000 - $193,600
+- 🕒 **Posted:** 2026-09-25
+
+### [Director, Product Management, Hospitality](https://www.linkedin.com/jobs/view/4472087484/) — IBS Software
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-25
 
-### [Senior AI Product Manager – Hope AI Platform](https://www.linkedin.com/jobs/view/4472060035/) — Arkhya Tech Inc.
+### [Director, Product Management](https://www.linkedin.com/jobs/view/4470389709/) — ConnectWise
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-25
 
-### [Senior Product Manager - AI & Operational Intelligence](https://www.linkedin.com/jobs/view/4470322475/) — Evolution USA
-- 📍 **Location:** United States
-- 💰 **Salary:** $150,000.00/yr - $190,000.00/yr
-- 🕒 **Posted:** 2026-09-25
-
-### [Vice President of Product Design](https://www.linkedin.com/jobs/view/4470197067/) — Interactive Brokers.
+### [Senior Product Manager - Cost and Coverage](https://www.linkedin.com/jobs/view/4472077248/) — Highmark Health
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-25
 
-### [Principal Product Manager](https://www.linkedin.com/jobs/view/4434376298/) — One Call
+### [Senior Product Manager - Multiline (Remote US Residency)](https://www.linkedin.com/jobs/view/4472073617/) — AF - Group
 - 📍 **Location:** United States
-- 💰 **Salary:** $142,121.00/yr - $227,394.00/yr
 - 🕒 **Posted:** 2026-09-25
 
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4470344357/) — Semify
+### [Senior Product Manager- Agentic Commerce (Remote)](https://www.linkedin.com/jobs/view/4460442396/) — Progressive Leasing
+- 📍 **Location:** Utah, United States
+- 🕒 **Posted:** 2026-09-25
+
+### [Senior Product Manager, Ads Quality](https://www.linkedin.com/jobs/view/4443806783/) — Instacart
 - 📍 **Location:** United States
-- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
+- 💰 **Salary:** $189,000—$199,500 USD
+- 🕒 **Posted:** 2026-09-25
+
+### [Principal Technical Program Manager, Sponsored Products and Brands Agent](https://www.linkedin.com/jobs/view/4463343563/) — Amazon
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-09-25
+
+### [Senior Product Manager, Federal](https://www.linkedin.com/jobs/view/4461792501/) — Armada
+- 📍 **Location:** United States
+- 💰 **Salary:** $157,596 - $196.99
 - 🕒 **Posted:** 2026-09-25
