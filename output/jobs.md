@@ -1,213 +1,206 @@
 # 🏛 Priority Employers — Product Leadership Roles
-*Last updated: 2026-09-24 10:32 UTC*
+*Last updated: 2026-09-25 10:11 UTC*
 
-**45 new role(s)** since last run · 51 total in last 24h
+**44 new role(s)** since last run · 45 total in last 24h
 
-### [Director of Product Management, Agent-Native Web Experiences](https://www.linkedin.com/jobs/view/4471179107/) — Salesforce
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $197,300 - $313,700 annually
+### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4470091005/) — OpenAIMP
+- 📍 **Location:** Dayton, NJ
+- 🕒 **Posted:** 2026-09-25
+
+### [Director, Product Management, Serverless, Orchestration and Firebase](https://www.linkedin.com/jobs/view/4470073385/) — Google
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $281000 - $391000
+- 🕒 **Posted:** 2026-09-25
+
+### [Director of Product Management - Adobe Builders eXperience (ABX)](https://www.linkedin.com/jobs/view/4443744222/) — Adobe
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $173,800 - $334,500 annually
+- 🕒 **Posted:** 2026-09-25
+
+### [Principal Product Manager](https://www.linkedin.com/jobs/view/4442908475/) — Adobe
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $148,100 - $282,100 annually
+- 🕒 **Posted:** 2026-09-25
+
+### [Senior Product Manager, YouTube Creator Earnings](https://www.linkedin.com/jobs/view/4470069475/) — Google
+- 📍 **Location:** San Bruno, CA
+- 💰 **Salary:** $192000 - $278000
+- 🕒 **Posted:** 2026-09-25
+
+### [Sr. Product Manager - Technical, Amazon Customer Experience and Business Trends](https://www.linkedin.com/jobs/view/4471817372/) — Amazon
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-09-25
+
+### [Sr. Director, Product Engineering – Modular Infrastructure – OCI Data Center Infrastructure](https://www.linkedin.com/jobs/view/4443745317/) — Oracle
+- 📍 **Location:** United States
+- 💰 **Salary:** $182,000 - $414,400 per year
+- 🕒 **Posted:** 2026-09-25
+
+### [Sr. Director of Product Management - DV Publisher Suite](https://www.linkedin.com/jobs/view/4470036260/) — DoubleVerify
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $219,000 - $336,000
 - 🕒 **Posted:** 2026-09-24
 
-### [Director, AI & Tooling](https://www.linkedin.com/jobs/view/4471161555/) — Salesforce
-- 📍 **Location:** Atlanta, GA
+### [Senior Product Design Manager, Enterprise](https://www.linkedin.com/jobs/view/4471643251/) — Scale AI
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $233,600—$292,000 USD
+- 🕒 **Posted:** 2026-09-24
+
+### [Head Of Strategy and Operations, US Retail](https://www.linkedin.com/jobs/view/4469666905/) — Google
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $234000 - $325000
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior Product Manager, Generative AI, Google Cloud](https://www.linkedin.com/jobs/view/4470012958/) — Google
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $192000 - $278000
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior Principal Program Manager, GTM Excellence](https://www.linkedin.com/jobs/view/4462740713/) — Reddit, Inc.
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $180,200—$313,000 USD
+- 🕒 **Posted:** 2026-09-24
+
+### [Principal Product Mgr. - Tech, Measurement, Measurement, Ad Tech, and Data Science (MADS)](https://www.linkedin.com/jobs/view/4462717072/) — Amazon
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-24
+
+### [Director of Product Marketing](https://www.linkedin.com/jobs/view/4471629748/) — Nametag
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior Product Manager, Ads -  Shopping Catalogs](https://www.linkedin.com/jobs/view/4452679670/) — Reddit, Inc.
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $190,800—$267,100 USD
+- 🕒 **Posted:** 2026-09-24
+
+### [Customer Strategy & Planning Director, Agentforce Operations](https://www.linkedin.com/jobs/view/4471671047/) — Salesforce
+- 📍 **Location:** New York, NY
 - 💰 **Salary:** $164,000 - $261,500 annually
 - 🕒 **Posted:** 2026-09-24
 
-### [Group Product Manager, Google Partner Innovation, APAC GTM Operations](https://www.linkedin.com/jobs/view/4469391674/) — Google
-- 📍 **Location:** Singapore
-- 🕒 **Posted:** 2026-09-24
-
-### [Senior Product Manager, Piper](https://www.linkedin.com/jobs/view/4453111776/) — Salesforce
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $172,500 - $260,100 annually
-- 🕒 **Posted:** 2026-09-24
-
-### [Director, Head of Product, Google Design Platform](https://www.linkedin.com/jobs/view/4469600969/) — Google
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $281000 - $391000
-- 🕒 **Posted:** 2026-09-23
-
-### [Sr. Director of Product Management - DV Marketplace Suite](https://www.linkedin.com/jobs/view/4469457582/) — DoubleVerify
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $219,000 - $336,000
-- 🕒 **Posted:** 2026-09-23
-
-### [Director, Portfolio & Monetization Architecture](https://www.linkedin.com/jobs/view/4432467448/) — Spotify
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $248,656 - $355,223,
-- 🕒 **Posted:** 2026-09-23
-
-### [Group Product Manager, Google Commerce, Consumer Shopping](https://www.linkedin.com/jobs/view/4460625112/) — Google
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $240000 - $333000
-- 🕒 **Posted:** 2026-09-23
-
-### [Head of Strategy and Operations, Search Partnerships](https://www.linkedin.com/jobs/view/4469465258/) — Google
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $234000 - $325000
-- 🕒 **Posted:** 2026-09-23
-
-### [Product Management Director - Salesforce Success Plans](https://www.linkedin.com/jobs/view/4470989891/) — Salesforce
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $197,300 - $313,700 annually
-- 🕒 **Posted:** 2026-09-23
-
-### [Principal Product Manager, Messaging & Communities](https://www.linkedin.com/jobs/view/4470969397/) — LinkedIn
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $187,000 to $305,000
-- 🕒 **Posted:** 2026-09-23
-
-### [Sr Product Manager-Technical, SCOT Forecasting & Labs](https://www.linkedin.com/jobs/view/4470982865/) — Amazon
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-23
-
-### [Business Planning and Pricing Principal, Cloud](https://www.linkedin.com/jobs/view/4469440622/) — Google
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150000 - $217000
-- 🕒 **Posted:** 2026-09-23
-
-### [Director, Agentic Data Cloud](https://www.linkedin.com/jobs/view/4469499977/) — Google
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $211000 - $293000
-- 🕒 **Posted:** 2026-09-23
-
-### [Principal Delivery Consultant, Emerging Technologies – Sports, Media and Entertainment, Industry Specialist, Sports ndustry Specialist, Sports](https://www.linkedin.com/jobs/view/4470995177/) — Amazon Web Services (AWS)
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-09-23
-
-### [Principal Worldwide Specialist - AI Inference, Data & AI GTM](https://www.linkedin.com/jobs/view/4462086842/) — Amazon Web Services (AWS)
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-09-23
-
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4469342512/) — Howmet Aerospace
-- 📍 **Location:** Brea, CA
-- 💰 **Salary:** $170,000 - $210,000/year
-- 🕒 **Posted:** 2026-09-23
-
-### [Product Management, Director - AI Platforms and Infra](https://www.linkedin.com/jobs/view/4440444358/) — Meta
-- 📍 **Location:** Bellevue, WA
+### [Product Management, Director](https://www.linkedin.com/jobs/view/4460477754/) — Meta
+- 📍 **Location:** Burlingame, CA
 - 💰 **Salary:** $249,000.00/yr - $323,000.00/yr
-- 🕒 **Posted:** 2026-09-23
+- 🕒 **Posted:** 2026-09-24
 
-### [Group Product Manager, Intelligent Customer Issue Resolution](https://www.linkedin.com/jobs/view/4469322811/) — Google
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $240000 - $333000
-- 🕒 **Posted:** 2026-09-23
+### [Sr Director, Product Management - VenturaOS](https://www.linkedin.com/jobs/view/4426020599/) — The Trade Desk
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $221,200—$405,600 USD
+- 🕒 **Posted:** 2026-09-24
 
-### [Senior Product Manager, Optimization and Licensing Assessment (OLA)](https://www.linkedin.com/jobs/view/4470930532/) — Amazon Web Services (AWS)
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-09-23
-
-### [Principal Product Manager](https://www.linkedin.com/jobs/view/4470923872/) — Microsoft
-- 📍 **Location:** Redmond, WA
-- 💰 **Salary:** USD $142,800 - $274,800 per year
-- 🕒 **Posted:** 2026-09-23
-
-### [Principal Product Manager- Copilot](https://www.linkedin.com/jobs/view/4470942038/) — Microsoft
-- 📍 **Location:** Redmond, WA
-- 💰 **Salary:** USD $142,800 - $274,800 per year
-- 🕒 **Posted:** 2026-09-23
-
-### [Senior Product Manager, Search Ads Syndication](https://www.linkedin.com/jobs/view/4469321849/) — Google
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $192000 - $278000
-- 🕒 **Posted:** 2026-09-23
-
-### [Senior Strategy and Operations Principal, Data Cloud, GTM Operations](https://www.linkedin.com/jobs/view/4469324726/) — Google
+### [Group Product Manager, Agentic Operations](https://www.linkedin.com/jobs/view/4469732429/) — Google
 - 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $222000 - $308000
-- 🕒 **Posted:** 2026-09-23
+- 💰 **Salary:** $240000 - $333000
+- 🕒 **Posted:** 2026-09-24
 
-### [Product Strategy and Operations Principal, AI2](https://www.linkedin.com/jobs/view/4460290338/) — Google
+### [Lead Group Product Manager, Ads](https://www.linkedin.com/jobs/view/4470033062/) — Google
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $240000 - $333000
+- 🕒 **Posted:** 2026-09-24
+
+### [Product Strategy and Operations Principal, Cloud AI](https://www.linkedin.com/jobs/view/4460984528/) — Google
 - 📍 **Location:** Sunnyvale, CA
 - 💰 **Salary:** $176000 - $256000
-- 🕒 **Posted:** 2026-09-23
+- 🕒 **Posted:** 2026-09-24
 
-### [Principal Product Manager, Agentic Platform](https://www.linkedin.com/jobs/view/4471159150/) — LinkedIn
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $187,000 to $305,000
-- 🕒 **Posted:** 2026-09-23
-
-### [Principal TPM, Customer 360, Amazon Personalization](https://www.linkedin.com/jobs/view/4470992321/) — Amazon
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-09-23
-
-### [Senior Product Manager, Agents/Agentic](https://www.linkedin.com/jobs/view/4469321842/) — Google
+### [Head of Analytics, Data Cloud, Product Operations](https://www.linkedin.com/jobs/view/4469725597/) — Google
 - 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $192000 - $278000
-- 🕒 **Posted:** 2026-09-23
+- 💰 **Salary:** $222000 - $308000
+- 🕒 **Posted:** 2026-09-24
 
-### [Principal Forward Deployed Product Lead](https://www.linkedin.com/jobs/view/4471136880/) — LinkedIn
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $187,000 to $305,000
-- 🕒 **Posted:** 2026-09-23
-
-### [Senior Product Manager, AI Models and Agentic Platforms on GDC](https://www.linkedin.com/jobs/view/4469601121/) — Google
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $192000 - $278000
-- 🕒 **Posted:** 2026-09-23
-
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4470935477/) — Microsoft
+### [Principal Product Manager](https://www.linkedin.com/jobs/view/4471464543/) — Microsoft
 - 📍 **Location:** Redmond, WA
-- 💰 **Salary:** USD $119,800 - $234,700 per year
-- 🕒 **Posted:** 2026-09-23
+- 💰 **Salary:** USD $142,800 - $274,800 per year
+- 🕒 **Posted:** 2026-09-24
 
-### [Principal Product Strategist, Commerce](https://www.linkedin.com/jobs/view/4452449666/) — Microsoft
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** USD $130,900 - $251,900 per year
-- 🕒 **Posted:** 2026-09-23
+### [Principal PMT, APM Insights](https://www.linkedin.com/jobs/view/4462719115/) — Amazon
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-24
 
-### [Senior Product Manager - Technical, Marketing Optimizaiton, Devices Science Optimization](https://www.linkedin.com/jobs/view/4471116785/) — Amazon
+### [Principal Product Manager - Compute](https://www.linkedin.com/jobs/view/4469775126/) — Oracle
+- 📍 **Location:** Nashville, TN
+- 💰 **Salary:** $92,900 - $209,500 per year
+- 🕒 **Posted:** 2026-09-24
+
+### [Principal Modular Product Manager](https://www.linkedin.com/jobs/view/4432324020/) — Oracle
+- 📍 **Location:** United States
+- 💰 **Salary:** $126,200 - $264,100 per year
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior Product Manager, Storage](https://www.linkedin.com/jobs/view/4460483994/) — Google
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $192000 - $278000
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior Product Manager, Technical - External Services, AWS Life Sciences](https://www.linkedin.com/jobs/view/4469749192/) — Amazon Web Services (AWS)
 - 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-09-23
+- 🕒 **Posted:** 2026-09-24
 
-### [Sr. Product Manager - Technical, Mainframe Modernization](https://www.linkedin.com/jobs/view/4470990387/) — Amazon Web Services (AWS)
-- 📍 **Location:** Boston, MA
-- 🕒 **Posted:** 2026-09-23
+### [Principal Product Manager - Azure Speech (CoreAI)](https://www.linkedin.com/jobs/view/4444435694/) — Microsoft
+- 📍 **Location:** Redmond, WA
+- 💰 **Salary:** USD $142,800 - $274,800 per year
+- 🕒 **Posted:** 2026-09-24
 
-### [Sr Product Manager - Tech, AWS Analytics Engineering Deals Desk](https://www.linkedin.com/jobs/view/4471133168/) — Amazon Web Services (AWS)
+### [Sr. Product Manager-Tech, Event Automation & Intelligence](https://www.linkedin.com/jobs/view/4462714053/) — Amazon
 - 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-09-23
+- 🕒 **Posted:** 2026-09-24
 
-### [Senior Product Manager, AWS Field Experiences](https://www.linkedin.com/jobs/view/4470996147/) — Amazon Web Services (AWS)
+### [Principal Talent Management, Amazon Talent & Compensation](https://www.linkedin.com/jobs/view/4469739373/) — Amazon
 - 📍 **Location:** Arlington, VA
-- 🕒 **Posted:** 2026-09-23
+- 🕒 **Posted:** 2026-09-24
 
-### [Sr. Product Manager - Tech, RBKS AI](https://www.linkedin.com/jobs/view/4462084865/) — Amazon
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-09-23
-
-### [Sr Product Manager - Tech, Foundational AI - Product Team](https://www.linkedin.com/jobs/view/4462094911/) — Amazon
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-09-23
-
-### [Sr Product Manager, Vertical Agents](https://www.linkedin.com/jobs/view/4471145693/) — LinkedIn
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $155,000 to $253,000
-- 🕒 **Posted:** 2026-09-23
-
-### [Sr Product Manager (Tech), SCOT-AIM](https://www.linkedin.com/jobs/view/4462189081/) — Amazon
-- 📍 **Location:** Bellevue, WA
-- 🕒 **Posted:** 2026-09-23
-
-### [Senior Product Manager - Technical, Region Flexibility & Efficiency](https://www.linkedin.com/jobs/view/4470930526/) — Amazon
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-09-23
-
-### [Senior Product Manager - Reporting & Data Platform](https://www.linkedin.com/jobs/view/4461728488/) — Microsoft
+### [Senior Product Manager- Agentic Security](https://www.linkedin.com/jobs/view/4462820322/) — Microsoft
 - 📍 **Location:** Redmond, WA
 - 💰 **Salary:** USD $119,800 - $234,700 per year
-- 🕒 **Posted:** 2026-09-23
+- 🕒 **Posted:** 2026-09-24
 
-### [Sr. Product Manager, Amazon Intermodal](https://www.linkedin.com/jobs/view/4462103026/) — Amazon
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-09-23
+### [Senior Product Manager, Technical , OMHS Software, Controls, and Science](https://www.linkedin.com/jobs/view/4462700773/) — Amazon
+- 📍 **Location:** Arlington, VA
+- 🕒 **Posted:** 2026-09-24
 
-### [Head of Research, Professional Intelligence, DeepMind](https://www.linkedin.com/jobs/view/4469450549/) — Google DeepMind
+### [Senior Product Manager - Technical, Denied Party Screening, AWS Compliance & Security Assurance](https://www.linkedin.com/jobs/view/4462713085/) — Amazon Web Services (AWS)
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior Product Manager - Compute](https://www.linkedin.com/jobs/view/4469772266/) — Oracle
+- 📍 **Location:** Nashville, TN
+- 💰 **Salary:** $72,800 - $187,000 per year
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior Product Manager, Search](https://www.linkedin.com/jobs/view/4452932934/) — Google
 - 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $262000 - $364000
-- 🕒 **Posted:** 2026-09-23
+- 💰 **Salary:** $192000 - $278000
+- 🕒 **Posted:** 2026-09-24
 
-### [Sr. Product Manager, Alexa Japan](https://www.linkedin.com/jobs/view/4470922729/) — Amazon
-- 📍 **Location:** Tokyo, Japan
-- 🕒 **Posted:** 2026-09-23
+### [Sr. Product Manager Tech, Home & Lifestyle Innovation Team](https://www.linkedin.com/jobs/view/4462719116/) — Amazon
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-09-24
+
+### [SEO Director (40)](https://www.linkedin.com/jobs/view/4470049073/) — dentsu
+- 📍 **Location:** North Port-Sarasota Area
+- 🕒 **Posted:** 2026-09-24
+
+### [Principal Product Manager/JV General Manager](https://www.linkedin.com/jobs/view/4462825261/) — Microsoft
+- 📍 **Location:** Beijing, Beijing, China
+- 🕒 **Posted:** 2026-09-24
+
+### [Director of Product Strategy - Office of the CEO](https://www.linkedin.com/jobs/view/4471473699/) — Salesforce
+- 📍 **Location:** Paris, Île-de-France, France
+- 🕒 **Posted:** 2026-09-24
+
+### [Principal Product Manager - Agent 365](https://www.linkedin.com/jobs/view/4471466427/) — Microsoft
+- 📍 **Location:** Dublin, County Dublin, Ireland
+- 🕒 **Posted:** 2026-09-24
+
+### [Principal Product Manager(Work IQ)](https://www.linkedin.com/jobs/view/4462814380/) — Microsoft
+- 📍 **Location:** Suzhou, Jiangsu, China
+- 🕒 **Posted:** 2026-09-24
+
+### [Principal Product Management](https://www.linkedin.com/jobs/view/4462823331/) — Microsoft
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-09-24
+
+### [Principal Product Manager – Technical, Circular Economy, Extended Producer Responsbility](https://www.linkedin.com/jobs/view/4471643260/) — Amazon
+- 📍 **Location:** Luxembourg, Luxembourg, Luxembourg
+- 🕒 **Posted:** 2026-09-24
