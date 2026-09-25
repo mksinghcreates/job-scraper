@@ -1,79 +1,57 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-09-24 20:45 UTC*
+*Last updated: 2026-09-25 00:07 UTC*
 
-**16 new role(s)** since last run · 16 total in last 1h
+**12 new role(s)** since last run · 12 total in last 1h
 
-### [Sr. Director of Product Management - DV Publisher Suite](https://www.linkedin.com/jobs/view/4470036260/) — DoubleVerify
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $219,000 - $336,000
-- 🕒 **Posted:** 2026-09-24
-
-### [Confluent - Director, Product Led Growth Marketing](https://www.linkedin.com/jobs/view/4469783388/) — IBM
-- 📍 **Location:** Armonk, NY
-- 💰 **Salary:** $158,000.00/yr - $296,000.00/yr
-- 🕒 **Posted:** 2026-09-24
-
-### [Senior Product Manager, Member Experience](https://www.linkedin.com/jobs/view/4471656871/) — Atria Health and Research Institute
+### [Vice President, Reporting & Analytics Product Development](https://www.linkedin.com/jobs/view/4469783918/) — ADP
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $170,000 - $220,000
+- 💰 **Salary:** USD $216,300.00 - USD $362,000.00
 - 🕒 **Posted:** 2026-09-24
 
-### [Senior Product Manager, Generative AI, Google Cloud](https://www.linkedin.com/jobs/view/4470012958/) — Google
+### [The Core Engineering-New York-Vice President-AI Product Manager - Enterprise Platforms & Workflow Transformation](https://www.linkedin.com/jobs/view/4470038748/) — Goldman Sachs
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $192000 - $278000
 - 🕒 **Posted:** 2026-09-24
 
-### [Senior Product Manager, SMB Platform](https://www.linkedin.com/jobs/view/4471669834/) — Clera
+### [Director, Product Management & Data Transformation](https://www.linkedin.com/jobs/view/4471692966/) — AMC Global Media
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $160,000 to $200,000 USD annually
+- 💰 **Salary:** $190,000 - $200,000
 - 🕒 **Posted:** 2026-09-24
 
-### [Senior Product Manager, Banking](https://www.linkedin.com/jobs/view/4471686032/) — Clera
+### [Senior Vice President of Product Management](https://www.linkedin.com/jobs/view/4460378460/) — Foxx Development Inc.
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-24
+
+### [Product Head of AI](https://www.linkedin.com/jobs/view/4471821057/) — DEUNA
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-24
+
+### [Director of Product Program Management](https://www.linkedin.com/jobs/view/4471808335/) — Swooped
+- 📍 **Location:** United States
+- 💰 **Salary:** $180,000.00/yr - $220,000.00/yr
+- 🕒 **Posted:** 2026-09-24
+
+### [Director, Product Marketing](https://www.linkedin.com/jobs/view/4470056131/) — PAX
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior Product Manager – GridBeats™ Device Management](https://www.linkedin.com/jobs/view/4471699768/) — GE Vernova
+- 📍 **Location:** South Carolina, United States
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior Product Manager, Consumer Health](https://www.linkedin.com/jobs/view/4439894074/) — Sequencing
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior Product Manager - Remote](https://www.linkedin.com/jobs/view/4464976556/) — Centro Benefits Research
+- 📍 **Location:** United States
+- 💰 **Salary:** $140,000 to $160,000 per year
+- 🕒 **Posted:** 2026-09-24
+
+### [Sr Lead Product Manager (Merchant Integrations)](https://www.linkedin.com/jobs/view/4471800359/) — Early Warning
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $160,000 to $200,000 USD annually
+- 💰 **Salary:** $150,000 - $175,000
 - 🕒 **Posted:** 2026-09-24
 
-### [Chief Product Officer](https://www.linkedin.com/jobs/view/4470040151/) — InGameJob.com
+### [Product Head of POP](https://www.linkedin.com/jobs/view/4471821158/) — DEUNA
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-24
-
-### [Associate Director, Technology Product Management](https://www.linkedin.com/jobs/view/4470036051/) — Wolters Kluwer
-- 📍 **Location:** Indianapolis, IN
-- 💰 **Salary:** $133,400.00 - $238,400.00 USD
-- 🕒 **Posted:** 2026-09-24
-
-### [Senior Director, Product Management - IDP](https://www.linkedin.com/jobs/view/4460558900/) — Tungsten Automation
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-24
-
-### [Director, Product Management - EDR](https://www.linkedin.com/jobs/view/4469780654/) — Arctic Wolf
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-24
-
-### [Head of Product Engineering](https://www.linkedin.com/jobs/view/4470017818/) — IMMENSITY
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-24
-
-### [Senior Product Strategy Manager](https://www.linkedin.com/jobs/view/4471683217/) — PowerSchool
-- 📍 **Location:** United States
-- 💰 **Salary:** $94,000 - $132,600 USD
-- 🕒 **Posted:** 2026-09-24
-
-### [Senior Product Manager - Switchboards](https://www.linkedin.com/jobs/view/4469767789/) — FTI
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-24
-
-### [Senior Technical Product Manager](https://www.linkedin.com/jobs/view/4471657880/) — MeeBoss
-- 📍 **Location:** United States
-- 💰 **Salary:** $170K–$250K
-- 🕒 **Posted:** 2026-09-24
-
-### [Product Development Director (P&C Auto)](https://www.linkedin.com/jobs/view/4469794005/) — USAA
-- 📍 **Location:** Colorado Springs, CO
-- 💰 **Salary:** $127,310 - $243,340
-- 🕒 **Posted:** 2026-09-24
-
-### [Product Management Director - Life Company Medicare Supplement Products](https://www.linkedin.com/jobs/view/4469784473/) — USAA
-- 📍 **Location:** Colorado Springs, CO
-- 💰 **Salary:** $143,320 - $273,930
 - 🕒 **Posted:** 2026-09-24
