@@ -1,84 +1,77 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-09-25 20:46 UTC*
+*Last updated: 2026-09-26 00:11 UTC*
 
-**18 new role(s)** since last run · 18 total in last 1h
+**16 new role(s)** since last run · 16 total in last 1h
 
-### [Senior Manager, Product Management - Cloud Runtimes & Operations Enterprise (CORE)](https://www.linkedin.com/jobs/view/4472081224/) — Capital One
+### [Principal Product Manager - Technical, External Services, AWS Billing](https://www.linkedin.com/jobs/view/4472208863/) — Amazon Web Services (AWS)
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,700 - $229,100
-- 🕒 **Posted:** 2026-09-25
+- 🕒 **Posted:** 2026-09-26
 
-### [Senior Manager, Product Management - Feature Flagging and Experimentation Platform](https://www.linkedin.com/jobs/view/4472081219/) — Capital One
+### [Sr. Product Manager - Tech, Worldwide Grocery Stores (WWGS) - Location, Strategy & Analytics](https://www.linkedin.com/jobs/view/4472216406/) — Amazon
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $182,500 - $208,300
-- 🕒 **Posted:** 2026-09-25
+- 🕒 **Posted:** 2026-09-26
 
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4472075650/) — Avantos.ai
+### [Director of Product Development](https://www.linkedin.com/jobs/view/4472219146/) — Pets+People Consumer Products
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-25
 
-### [Senior Product Manager, New Product Line](https://www.linkedin.com/jobs/view/4470391617/) — Alia
+### [Group Product Manager – Corporate Systems](https://www.linkedin.com/jobs/view/4470729247/) — Smartsheet
+- 📍 **Location:** United States
+- 💰 **Salary:** $182,500 - $240,000 USD
+- 🕒 **Posted:** 2026-09-25
+
+### [Senior Manager, Product Sustainability - Gorilla Glass](https://www.linkedin.com/jobs/view/4470199999/) — Corning Incorporated
+- 📍 **Location:** Corning, NY
+- 💰 **Salary:** $169,173.00 - $232,613.00
+- 🕒 **Posted:** 2026-09-25
+
+### [Group Product Manager, Data Feeds](https://www.linkedin.com/jobs/view/4472214322/) — YipitData
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-25
+
+### [Director of Product Management, Measurement](https://www.linkedin.com/jobs/view/4470713784/) — Applecart
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $220,000 to $250,000,
 - 🕒 **Posted:** 2026-09-25
 
-### [Senior Product Manager – Digital Payments](https://www.linkedin.com/jobs/view/4472080690/) — Incedo Inc.
+### [Senior Staff Product Manager, Manufacturing](https://www.linkedin.com/jobs/view/4472210373/) — Intuit
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $205,000 - $277,500
 - 🕒 **Posted:** 2026-09-25
 
-### [Senior Product Manager (AI) - General Opportunity](https://www.linkedin.com/jobs/view/4470188711/) — Blink UX
+### [Director, Integrated Strategy - Temporary Worker](https://www.linkedin.com/jobs/view/4464893728/) — dentsu
+- 📍 **Location:** Massachusetts, United States
+- 💰 **Salary:** $154,473-$206,093
+- 🕒 **Posted:** 2026-09-25
+
+### [Senior Product Manager (Remote From Anywhere in CO)](https://www.linkedin.com/jobs/view/4472095970/) — State of Colorado
+- 📍 **Location:** Colorado, United States
+- 🕒 **Posted:** 2026-09-25
+
+### [Principal Product Manager - Customer Zero](https://www.linkedin.com/jobs/view/4472093905/) — Celigo
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-25
+
+### [Senior Product Manager, Field Systems (Salesforce)](https://www.linkedin.com/jobs/view/4444019842/) — Smartsheet
+- 📍 **Location:** United States
+- 💰 **Salary:** $135,000 - $176,250 USD
+- 🕒 **Posted:** 2026-09-25
+
+### [Sr. Product Manager](https://www.linkedin.com/jobs/view/4462755565/) — Rafay
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-25
+
+### [(Associate/Senior) AI Product Manager/Owner, Salesforce, United States - BCG X](https://www.linkedin.com/jobs/view/4470722376/) — BCG X
+- 📍 **Location:** Manhattan Beach, CA
+- 💰 **Salary:** $139,500-$155,000 USD
+- 🕒 **Posted:** 2026-09-25
+
+### [(Associate/Senior) AI Product Manager/Owner, Salesforce, United States - BCG X](https://www.linkedin.com/jobs/view/4470723366/) — BCG X
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $139,500-$155,000 USD
+- 🕒 **Posted:** 2026-09-25
+
+### [(Associate/Senior) AI Product Manager/Owner, Salesforce, United States - BCG X](https://www.linkedin.com/jobs/view/4470721397/) — BCG X
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $145,000 - $185,000
-- 🕒 **Posted:** 2026-09-25
-
-### [VP of Product - Software](https://www.linkedin.com/jobs/view/4470181813/) — 4MP Inc
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-25
-
-### [Head of Data and Product](https://www.linkedin.com/jobs/view/4470307824/) — BlackJet Marketing
-- 📍 **Location:** United States
-- 💰 **Salary:** $230,000 to $260,000
-- 🕒 **Posted:** 2026-09-25
-
-### [Director / Associate Director of Product Management, Consumer Apps](https://www.linkedin.com/jobs/view/4472086621/) — Eli Lilly and Company
-- 📍 **Location:** Indianapolis, IN
-- 💰 **Salary:** $132,000 - $193,600
-- 🕒 **Posted:** 2026-09-25
-
-### [Director / Associate Director of Product Management, Consumer Apps](https://www.linkedin.com/jobs/view/4472090504/) — Eli Lilly and Company
-- 📍 **Location:** Indiana, United States
-- 💰 **Salary:** $132,000 - $193,600
-- 🕒 **Posted:** 2026-09-25
-
-### [Director, Product Management, Hospitality](https://www.linkedin.com/jobs/view/4472087484/) — IBS Software
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-25
-
-### [Director, Product Management](https://www.linkedin.com/jobs/view/4470389709/) — ConnectWise
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-25
-
-### [Senior Product Manager - Cost and Coverage](https://www.linkedin.com/jobs/view/4472077248/) — Highmark Health
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-25
-
-### [Senior Product Manager - Multiline (Remote US Residency)](https://www.linkedin.com/jobs/view/4472073617/) — AF - Group
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-25
-
-### [Senior Product Manager- Agentic Commerce (Remote)](https://www.linkedin.com/jobs/view/4460442396/) — Progressive Leasing
-- 📍 **Location:** Utah, United States
-- 🕒 **Posted:** 2026-09-25
-
-### [Senior Product Manager, Ads Quality](https://www.linkedin.com/jobs/view/4443806783/) — Instacart
-- 📍 **Location:** United States
-- 💰 **Salary:** $189,000—$199,500 USD
-- 🕒 **Posted:** 2026-09-25
-
-### [Principal Technical Program Manager, Sponsored Products and Brands Agent](https://www.linkedin.com/jobs/view/4463343563/) — Amazon
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-09-25
-
-### [Senior Product Manager, Federal](https://www.linkedin.com/jobs/view/4461792501/) — Armada
-- 📍 **Location:** United States
-- 💰 **Salary:** $157,596 - $196.99
+- 💰 **Salary:** $139,500-$155,000 USD
 - 🕒 **Posted:** 2026-09-25
