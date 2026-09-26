@@ -1,79 +1,73 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-09-26 16:38 UTC*
+*Last updated: 2026-09-26 20:03 UTC*
 
-**16 new role(s)** since last run · 18 total in last 1h
+**15 new role(s)** since last run · 15 total in last 1h
 
-### [Vice President, Product & Innovation Execution Team](https://www.linkedin.com/jobs/view/4454077886/) — BNY
+### [Director, Product Management, AWS Developer Tools](https://www.linkedin.com/jobs/view/4472402367/) — Amazon Web Services (AWS)
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-26
 
-### [Vice President of Product](https://www.linkedin.com/jobs/view/4470553924/) — Mortgage Capital Trading
+### [Senior Director of Engineering, Core Product](https://www.linkedin.com/jobs/view/4472299504/) — Coursedog
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $175,000 - $200,000
+- 🕒 **Posted:** 2026-09-26
+
+### [Senior Manager, Product Marketing](https://www.linkedin.com/jobs/view/4472408270/) — Coursedog
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $125,000 - $130,000
+- 🕒 **Posted:** 2026-09-26
+
+### [Senior Manager, Product Management- Customer Core & Idenitity](https://www.linkedin.com/jobs/view/4454539067/) — Capital One
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $182,500 - $208,300
+- 🕒 **Posted:** 2026-09-26
+
+### [Group Technical Product Manager](https://www.linkedin.com/jobs/view/4453252555/) — Hagerty
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-26
 
-### [Senior Product Operations Manager, Integrations](https://www.linkedin.com/jobs/view/4453749661/) — Harvey
+### [Senior Director, FX Product Management Manager](https://www.linkedin.com/jobs/view/4436389816/) — BNY
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-26
+
+### [Senior Director, Product Management - New Business](https://www.linkedin.com/jobs/view/4463648720/) — CNN
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $217,000.00 - $403,000.00
+- 🕒 **Posted:** 2026-09-26
+
+### [Director, Product Management, Global Open Banking](https://www.linkedin.com/jobs/view/4451289197/) — Mastercard
+- 📍 **Location:** Purchase, NY
+- 💰 **Salary:** $179,000 - $305,000 USD
+- 🕒 **Posted:** 2026-09-26
+
+### [Director-Digital Product Mgmt](https://www.linkedin.com/jobs/view/4461920953/) — American Express
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $144,250.00/yr - $256,250.00/yr
+- 🕒 **Posted:** 2026-09-26
+
+### [Director of Product - ICAP](https://www.linkedin.com/jobs/view/4451269598/) — CyberCoders
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-26
+
+### [Director of Product - IT/OT Storage Security](https://www.linkedin.com/jobs/view/4450827679/) — CyberCoders
+- 📍 **Location:** United States
+- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-09-26
+
+### [Sr. Product Manager, System Management Firmware](https://www.linkedin.com/jobs/view/4462300362/) — Lenovo
+- 📍 **Location:** North Carolina, United States
+- 🕒 **Posted:** 2026-09-26
+
+### [Pipeline - Senior Product Manager, Resy (Future Opportunities)](https://www.linkedin.com/jobs/view/4439815490/) — American Express
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $123,000.00/yr - $215,250.00/yr
+- 🕒 **Posted:** 2026-09-26
+
+### [Senior Manager - Amex Ads Product](https://www.linkedin.com/jobs/view/4462336239/) — American Express
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $123,000.00/yr - $215,250.00/yr
+- 🕒 **Posted:** 2026-09-26
+
+### [Senior Product Manager, Amazon Haul](https://www.linkedin.com/jobs/view/4463674098/) — Amazon
 - 📍 **Location:** New York, United States
-- 💰 **Salary:** $155,400 - $233,200 USD
-- 🕒 **Posted:** 2026-09-26
-
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4463383695/) — Link Logistics
-- 📍 **Location:** Fort Washington, PA
-- 💰 **Salary:** $165,000 - $180,000
-- 🕒 **Posted:** 2026-09-26
-
-### [Sr Technical Product Manager](https://www.linkedin.com/jobs/view/4433120847/) — McGraw Hill
-- 📍 **Location:** United States
-- 💰 **Salary:** $115,000 - $160,000 annually
-- 🕒 **Posted:** 2026-09-26
-
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4462898778/) — Cadence
-- 📍 **Location:** United States
-- 💰 **Salary:** $200,000 - $240,000,
-- 🕒 **Posted:** 2026-09-26
-
-### [Senior Staff Product Manager, Device Security](https://www.linkedin.com/jobs/view/4454554992/) — 1Password
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-26
-
-### [Principal Product Manager](https://www.linkedin.com/jobs/view/4461195109/) — LawnStarter
-- 📍 **Location:** United States
-- 💰 **Salary:** $185,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-09-26
-
-### [Principal Product Manager](https://www.linkedin.com/jobs/view/4444051106/) — Origin
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-26
-
-### [Principal Product Manager, Payments](https://www.linkedin.com/jobs/view/4454340421/) — Flex
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $248,000—$310,000 USD
-- 🕒 **Posted:** 2026-09-26
-
-### [Senior Product Manager - Core Interfaces](https://www.linkedin.com/jobs/view/4441846860/) — Mercury
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,700—$250,900 USD
-- 🕒 **Posted:** 2026-09-26
-
-### [Senior Product Manager, Atom Engine](https://www.linkedin.com/jobs/view/4471045030/) — Jobgether
-- 📍 **Location:** United States
-- 💰 **Salary:** $160,000–$210,000 USD
-- 🕒 **Posted:** 2026-09-26
-
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4454538164/) — Dandy
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-26
-
-### [Principal Product Designer, AI Native, Core](https://www.linkedin.com/jobs/view/4436375787/) — Pinterest
-- 📍 **Location:** United States
-- 💰 **Salary:** $210,161—$432,684 USD
-- 🕒 **Posted:** 2026-09-26
-
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4463600026/) — Link Logistics
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $165,000 - $180,000
-- 🕒 **Posted:** 2026-09-26
-
-### [Senior Product Manager - Core Interfaces](https://www.linkedin.com/jobs/view/4441864052/) — Mercury
-- 📍 **Location:** United States
-- 💰 **Salary:** $200,700—$250,900 USD
 - 🕒 **Posted:** 2026-09-26
