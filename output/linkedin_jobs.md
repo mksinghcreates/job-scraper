@@ -1,16 +1,9 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-09-27 01:34 UTC*
+*Last updated: 2026-09-27 08:18 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Vice President of Product Management](https://www.linkedin.com/jobs/view/4470576433/) — Volkswagen Group.
+### [Senior Staff Product Manager, eCommerce](https://www.linkedin.com/jobs/view/4459571999/) — Liftoff Mobile
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-27
-
-### [VP of Product](https://www.linkedin.com/jobs/view/4470571903/) — OrynteX
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-27
-
-### [Vice President of Product Operations](https://www.linkedin.com/jobs/view/4472411699/) — Global FinTech Network (GFTN)
-- 📍 **Location:** United States
+- 💰 **Salary:** $230,000 - $280,000
 - 🕒 **Posted:** 2026-09-27
