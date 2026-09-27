@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-09-27 17:41 UTC*
+*Last updated: 2026-09-27 20:16 UTC*
 
-**0 new role(s)** since last run · 4 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Chief Product Officer](https://www.linkedin.com/jobs/view/4471091971/) — InGameJob.com
+- 📍 **Location:** United States
+- 💰 **Salary:** $4,000 - $5,500
+- 🕒 **Posted:** 2026-09-27
