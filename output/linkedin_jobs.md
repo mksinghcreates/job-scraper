@@ -1,9 +1,19 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-09-27 20:16 UTC*
+*Last updated: 2026-09-27 23:12 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Chief Product Officer](https://www.linkedin.com/jobs/view/4471091971/) — InGameJob.com
+### [Senior Product Manager, Field Systems (Salesforce)](https://www.linkedin.com/jobs/view/4444019842/) — Smartsheet
 - 📍 **Location:** United States
-- 💰 **Salary:** $4,000 - $5,500
+- 💰 **Salary:** $135,000 - $176,250 USD
+- 🕒 **Posted:** 2026-09-27
+
+### [Senior Principal Outbound Product Manager - Service Collection](https://www.linkedin.com/jobs/view/4472478074/) — Atlassian
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $228,600 - $298,450
+- 🕒 **Posted:** 2026-09-27
+
+### [Senior Principal Outbound Product Manager - Service Collection](https://www.linkedin.com/jobs/view/4472474151/) — Atlassian
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $228,600 - $298,450
 - 🕒 **Posted:** 2026-09-27
