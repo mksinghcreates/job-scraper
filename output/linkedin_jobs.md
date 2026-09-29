@@ -1,88 +1,67 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-09-29 18:21 UTC*
+*Last updated: 2026-09-29 22:31 UTC*
 
-**18 new role(s)** since last run · 18 total in last 1h
+**14 new role(s)** since last run · 14 total in last 1h
 
-### [Director, Product Management, AI – Payments](https://www.linkedin.com/jobs/view/4455727815/) — Capital One
+### [Senior Vice President, Digital Product Manager](https://www.linkedin.com/jobs/view/4471954774/) — Citi
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $230,400 - $263,000
+- 💰 **Salary:** $ 192,000.00 - $ 288,000.00
 - 🕒 **Posted:** 2026-09-29
 
-### [Director, MarTech Product & Enablement](https://www.linkedin.com/jobs/view/4375900267/) — Major League Baseball (MLB)
+### [Group Lead Product Manager (Patient Data Platform)](https://www.linkedin.com/jobs/view/4473553042/) — Cedar
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $170,000 - 200,000
+- 💰 **Salary:** $204,000-$240,000
 - 🕒 **Posted:** 2026-09-29
 
-### [Design Director Product Design Prototyping](https://www.linkedin.com/jobs/view/4471920691/) — Tata Consultancy Services
+### [Sr Director, Product Growth](https://www.linkedin.com/jobs/view/4473547187/) — PayPal
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $175,000-$220,000
+- 💰 **Salary:** $218,000.00 - $323,950.00 Annually
 - 🕒 **Posted:** 2026-09-29
 
-### [Senior Product Manager, Programmatic Demand](https://www.linkedin.com/jobs/view/4473295761/) — NBCUniversal
+### [Principal Product Manager](https://www.linkedin.com/jobs/view/4473548102/) — SoFi
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $140,000.00/yr - $175,000.00/yr
+- 💰 **Salary:** $240,000.00/yr - $330,000.00/yr
 - 🕒 **Posted:** 2026-09-29
 
-### [Senior Commercial Product Director](https://www.linkedin.com/jobs/view/4462325143/) — ACAMS
+### [Senior Product Manager](https://www.linkedin.com/jobs/view/4473543525/) — SoFi
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $180,000.00/yr - $247,500.00/yr
+- 🕒 **Posted:** 2026-09-29
+
+### [Senior Manager Product Manager (Hybrid)](https://www.linkedin.com/jobs/view/4473553021/) — Collins Aerospace
+- 📍 **Location:** Rome, NY
+- 🕒 **Posted:** 2026-09-29
+
+### [Sr. Manager PMO - New Product Development](https://www.linkedin.com/jobs/view/4473564049/) — Toyota Material Handling
+- 📍 **Location:** Greene, NY
+- 💰 **Salary:** $146,640 - $185,000 per year
+- 🕒 **Posted:** 2026-09-29
+
+### [Associate Director, AI Enablement Product Owner](https://www.linkedin.com/jobs/view/4468075537/) — KPMG US
+- 📍 **Location:** Kansas City, MO
+- 🕒 **Posted:** 2026-09-29
+
+### [Associate Director, AI Enablement Product Owner](https://www.linkedin.com/jobs/view/4468085283/) — KPMG US
+- 📍 **Location:** Oklahoma City, OK
+- 🕒 **Posted:** 2026-09-29
+
+### [Associate Director, AI Enablement Product Owner](https://www.linkedin.com/jobs/view/4468069607/) — KPMG US
+- 📍 **Location:** Virginia Beach, VA
+- 🕒 **Posted:** 2026-09-29
+
+### [Director - Product Management, Agent Platform](https://www.linkedin.com/jobs/view/4473543593/) — WSO2
 - 📍 **Location:** United States
-- 💰 **Salary:** $180,000.00/yr - $220,000.00/yr
 - 🕒 **Posted:** 2026-09-29
 
-### [Senior Director Product Management](https://www.linkedin.com/jobs/view/4471936433/) — Cotiviti
-- 📍 **Location:** United States
-- 💰 **Salary:** $191,000 to $230,000 per year
-- 🕒 **Posted:** 2026-09-29
-
-### [Product Management Director - Open Source Software](https://www.linkedin.com/jobs/view/4473508092/) — Xanadu
+### [Senior Product Manager, Copay Programs](https://www.linkedin.com/jobs/view/4471786285/) — CareMetx, LLC
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-29
 
-### [Sr. Director Product Management (Data Lakehouse)](https://www.linkedin.com/jobs/view/4455463487/) — Dynata
-- 📍 **Location:** United States
-- 💰 **Salary:** $150K-$200K/yr
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior Director, Product Management](https://www.linkedin.com/jobs/view/4471743975/) — Oracle
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-29
-
-### [Executive Vice President of Product Management](https://www.linkedin.com/jobs/view/4471760502/) — Tiger Global Management.
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-29
-
-### [Principal Product Manager](https://www.linkedin.com/jobs/view/4471744932/) — Oracle
-- 📍 **Location:** United States
-- 💰 **Salary:** $92,900 - $209,500 per year
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4471751536/) — Pitney Bowes
+### [Senior Product Manager, Hardware-Software Platform](https://www.linkedin.com/jobs/view/4473554192/) — Evolve
 - 📍 **Location:** Austin, Texas Metropolitan Area
-- 💰 **Salary:** $150,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-09-29
 
-### [Sr Product Manager, Data Platforms & Analytics - Healthcare](https://www.linkedin.com/jobs/view/4473274902/) — McKesson
-- 📍 **Location:** Florida, United States
-- 💰 **Salary:** $119,300 - $198,800
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior Product Manager, Attorney Experience](https://www.linkedin.com/jobs/view/4455533389/) — Rocket Lawyer
-- 📍 **Location:** Arizona, United States
-- 💰 **Salary:** $138,000—$203,000 USD
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior Product Manager - Managed Security Services (Onboarding)](https://www.linkedin.com/jobs/view/4471749628/) — Arctic Wolf
+### [Sr. Product Manager, AI](https://www.linkedin.com/jobs/view/4435270442/) — Kiddom
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior Product Manager, Internal Tools](https://www.linkedin.com/jobs/view/4473506026/) — Osmo
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior Product Manager – ACH & Real-Time Payments](https://www.linkedin.com/jobs/view/4467890317/) — Odyssey Information Services
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-29
-
-### [Sr. Product Manager, Network Services](https://www.linkedin.com/jobs/view/4460789887/) — VGS
-- 📍 **Location:** United States
-- 💰 **Salary:** $175,000.00/yr - $275,000.00/yr
+- 💰 **Salary:** $175,000.00/yr - $230,000.00/yr
 - 🕒 **Posted:** 2026-09-29
