@@ -1,106 +1,32 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-10-01 19:19 UTC*
+*Last updated: 2026-10-01 23:27 UTC*
 
-**23 new role(s)** since last run · 23 total in last 1h
+**6 new role(s)** since last run · 6 total in last 1h
 
-### [Director, Applied AI Product Manager](https://www.linkedin.com/jobs/view/4465305668/) — BNY
+### [Principal, Product Owner (Copilot Studio)](https://www.linkedin.com/jobs/view/4474533770/) — Invesco
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $140,000 - $155,000
 - 🕒 **Posted:** 2026-10-01
 
-### [Senior Manager, Product Management- Card Core](https://www.linkedin.com/jobs/view/4446302288/) — Capital One
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $182,500 - $208,300
+### [Vice President, Product](https://www.linkedin.com/jobs/view/4472980578/) — SafelyYou
+- 📍 **Location:** United States
+- 💰 **Salary:** $260,000 - $280,000 USD
 - 🕒 **Posted:** 2026-10-01
 
-### [Director Product Management – AI / ML Platform](https://www.linkedin.com/jobs/view/4474377038/) — CVS Health
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $100,000.00 - $231,540.00
-- 🕒 **Posted:** 2026-10-01
-
-### [VP, Product Security Architecture](https://www.linkedin.com/jobs/view/4465324684/) — Synchrony
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-01
-
-### [Senior Manager, Product Design](https://www.linkedin.com/jobs/view/4470481573/) — Compass
-- 📍 **Location:** Manhattan, NY
-- 💰 **Salary:** $204,000-$226,000 annually
-- 🕒 **Posted:** 2026-10-01
-
-### [Senior Manager, Product Design](https://www.linkedin.com/jobs/view/4470490226/) — Compass
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $204,000-$226,000 annually
-- 🕒 **Posted:** 2026-10-01
-
-### [Principal Solutions Architect, Media & Entertainment, TMEGS](https://www.linkedin.com/jobs/view/4465355393/) — Amazon Web Services (AWS)
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-01
-
-### [Head of Product - Reciprocal Deposits](https://www.linkedin.com/jobs/view/4446883343/) — FIS
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $151,020.00 - $256,740.00
-- 🕒 **Posted:** 2026-10-01
-
-### [Senior Product Manager, Experimentation](https://www.linkedin.com/jobs/view/4472963158/) — FanDuel
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $129,000 - $161,000 USD
-- 🕒 **Posted:** 2026-10-01
-
-### [Vice President, Product & Innovation – Commercialization & Execution](https://www.linkedin.com/jobs/view/4429999653/) — BNY
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-01
-
-### [Senior Data Product Strategy Manager](https://www.linkedin.com/jobs/view/4472947752/) — Aventiqo
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-10-01
-
-### [Head of Product - Document Processing](https://www.linkedin.com/jobs/view/4462306441/) — Continuous
+### [Vice President of Product Management](https://www.linkedin.com/jobs/view/4472832431/) — DigiFinex.
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-01
 
-### [Senior Staff Product Manager, Browser Control Platform](https://www.linkedin.com/jobs/view/4468025791/) — Mozilla
+### [Director of Product Design](https://www.linkedin.com/jobs/view/4474538620/) — ClifyX
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior Product Manager, Field Systems (Salesforce)](https://www.linkedin.com/jobs/view/4444019842/) — Smartsheet
 - 📍 **Location:** United States
-- 💰 **Salary:** $195,000—$260,000 USD
+- 💰 **Salary:** $135,000 - $176,250 USD
 - 🕒 **Posted:** 2026-10-01
 
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4464171989/) — GitHub
-- 📍 **Location:** United States
-- 💰 **Salary:** USD $124,000.00 - USD $329,200.00 /Yr
-- 🕒 **Posted:** 2026-10-01
-
-### [Sr. Product Manager](https://www.linkedin.com/jobs/view/4458027292/) — AlertMedia
-- 📍 **Location:** Austin, Texas Metropolitan Area
-- 🕒 **Posted:** 2026-10-01
-
-### [Principal PMT- ES, AWS Security Services (S2)](https://www.linkedin.com/jobs/view/4455922094/) — Amazon Web Services (AWS)
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-10-01
-
-### [Principal Product Management - Technical (Ads), Amazon Sponsored Products and Brands](https://www.linkedin.com/jobs/view/4455925186/) — Amazon
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-10-01
-
-### [Principal, Product Manager, Technical, Amazon Ads, Amazon Retail Ad Service](https://www.linkedin.com/jobs/view/4474354895/) — Amazon
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-10-01
-
-### [Principal PMT, Live Sports, Amazon DSP](https://www.linkedin.com/jobs/view/4455906699/) — Amazon
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-10-01
-
-### [Principal Product Mgr. - Tech, Brand Measurement, Measurement, Ad Tech, and Data Science (MADS)](https://www.linkedin.com/jobs/view/4455934148/) — Amazon
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-10-01
-
-### [VP, Technology and Product](https://www.linkedin.com/jobs/view/4472811318/) — Carterwill Search
-- 📍 **Location:** New Jersey, United States
-- 💰 **Salary:** $226,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-10-01
-
-### [Director, Institutional Credit Product Management](https://www.linkedin.com/jobs/view/4474377721/) — Tradeweb
+### [Senior Product Manager - Agentic Commerce](https://www.linkedin.com/jobs/view/4472839363/) — American Express
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $175,000 to $220,000 per year
-- 🕒 **Posted:** 2026-10-01
-
-### [Principal Product Manager - Technical, Amazon](https://www.linkedin.com/jobs/view/4455921203/) — Amazon
-- 📍 **Location:** New York, United States
+- 💰 **Salary:** $123,000.00/yr - $215,250.00/yr
 - 🕒 **Posted:** 2026-10-01
