@@ -1,53 +1,32 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-10-01 08:22 UTC*
+*Last updated: 2026-10-01 09:10 UTC*
 
-**11 new role(s)** since last run · 11 total in last 1h
+**6 new role(s)** since last run · 17 total in last 1h
 
-### [Chief Revenue Officer, Process Transformation](https://www.linkedin.com/jobs/view/4474133236/) — Salesforce
+### [Executive Director, Partner Product Modernization](https://www.linkedin.com/jobs/view/4474142377/) — JPMorganChase
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $239,400 - $320,200 annually
+- 💰 **Salary:** $180,500.00/yr - $285,000.00/yr
 - 🕒 **Posted:** 2026-10-01
 
-### [Principal Product Manager (Cloud Media Solutions)](https://www.linkedin.com/jobs/view/4456214473/) — Connect Tech+Talent
-- 📍 **Location:** Indianapolis, IN
+### [Private Bank, Digital Product Manager  - Distribution in Kind, Vice President](https://www.linkedin.com/jobs/view/4474153158/) — JPMorganChase
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $133,000.00/yr - $215,000.00/yr
 - 🕒 **Posted:** 2026-10-01
 
-### [Sr. Product Manager (Remote)](https://www.linkedin.com/jobs/view/4472692711/) — WCG
-- 📍 **Location:** United States
-- 💰 **Salary:** USD $91,980.00 - USD $143,000.00 /Yr
-- 🕒 **Posted:** 2026-10-01
-
-### [Senior Data Product Manager, Agriculture](https://www.linkedin.com/jobs/view/4472688878/) — DTN
-- 📍 **Location:** Nebraska, United States
-- 🕒 **Posted:** 2026-10-01
-
-### [Senior Data Product Manager, Agriculture](https://www.linkedin.com/jobs/view/4472699475/) — DTN
-- 📍 **Location:** Minnesota, United States
-- 🕒 **Posted:** 2026-10-01
-
-### [Senior Data Product Manager, Agriculture](https://www.linkedin.com/jobs/view/4472697578/) — DTN
-- 📍 **Location:** Texas, United States
-- 🕒 **Posted:** 2026-10-01
-
-### [Senior Data Product Manager, Agriculture](https://www.linkedin.com/jobs/view/4472695553/) — DTN
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-01
-
-### [Director of Product Management, Security](https://www.linkedin.com/jobs/view/4474137466/) — ClickHouse
+### [Principal Product Manager, Partner Integrations](https://www.linkedin.com/jobs/view/4474132689/) — ClickHouse
 - 📍 **Location:** New York City Metropolitan Area
 - 💰 **Salary:** $210,000.00/yr - $310,000.00/yr
 - 🕒 **Posted:** 2026-10-01
 
-### [Ralph Lauren Sr. Product Manager, Mobile](https://www.linkedin.com/jobs/view/4472525423/) — BoF Careers
-- 📍 **Location:** New York, NY
+### [Director, Product Development Engineering - Optics](https://www.linkedin.com/jobs/view/4463609030/) — TE Connectivity
+- 📍 **Location:** Rochester, NY
 - 🕒 **Posted:** 2026-10-01
 
-### [Chief Product Officer](https://www.linkedin.com/jobs/view/4472514919/) — InGameJob.com
+### [Senior Product Strategy Manager](https://www.linkedin.com/jobs/view/4474138330/) — PowerSchool
 - 📍 **Location:** United States
-- 💰 **Salary:** $4,000 - $5,500
+- 💰 **Salary:** $94,000 - $132,600 USD
 - 🕒 **Posted:** 2026-10-01
 
-### [Principal Product Manager, Security](https://www.linkedin.com/jobs/view/4474146164/) — ClickHouse
-- 📍 **Location:** Austin, Texas Metropolitan Area
-- 💰 **Salary:** $210,000.00/yr - $310,000.00/yr
+### [Director, Digital Product Portfolio Enablement](https://www.linkedin.com/jobs/view/4472426855/) — Amgen
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-01
