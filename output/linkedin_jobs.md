@@ -1,28 +1,42 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-10-04 11:05 UTC*
+*Last updated: 2026-10-04 17:05 UTC*
 
-**5 new role(s)** since last run · 5 total in last 1h
+**8 new role(s)** since last run · 8 total in last 1h
 
-### [Senior Product Manager, Crypto Wallet](https://www.linkedin.com/jobs/view/4445058389/) — Robinhood
+### [VP, Product, Commerce Experiences & Marketplace](https://www.linkedin.com/jobs/view/4447182127/) — Condé Nast
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $166,000—$195,000 USD
+- 💰 **Salary:** $270,000-$330,000
 - 🕒 **Posted:** 2026-10-04
 
-### [Vice President, Product Design](https://www.linkedin.com/jobs/view/4454634715/) — One Inc
-- 📍 **Location:** United States
-- 💰 **Salary:** $250,000.00/yr - $275,000.00/yr
-- 🕒 **Posted:** 2026-10-04
-
-### [Senior Global Product Manager](https://www.linkedin.com/jobs/view/4428079262/) — CenTrak
-- 📍 **Location:** Pennsylvania, United States
-- 🕒 **Posted:** 2026-10-04
-
-### [Director - Product Manager](https://www.linkedin.com/jobs/view/4429795461/) — Moody's Corporation
+### [Pipeline - Product Director, Resy](https://www.linkedin.com/jobs/view/4456286824/) — American Express
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $171,100.00 - $248,050.00
+- 💰 **Salary:** $144,250.00/yr - $256,250.00/yr
 - 🕒 **Posted:** 2026-10-04
 
-### [Senior Technical Product Manager - Underwriting Platform](https://www.linkedin.com/jobs/view/4456254425/) — Zip Co
+### [Principal Product Manager, Front End Platform](https://www.linkedin.com/jobs/view/4447189007/) — Condé Nast
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $185,000-215,000
+- 🕒 **Posted:** 2026-10-04
+
+### [Director, Product Design - AI in Experience Design](https://www.linkedin.com/jobs/view/4457820764/) — Capital One
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $230,400 - $263,000
+- 🕒 **Posted:** 2026-10-04
+
+### [Director of Product Innovation](https://www.linkedin.com/jobs/view/4473484529/) — InterCapital Digital Wealth Management
 - 📍 **Location:** United States
-- 💰 **Salary:** $133,000 - $165,000
+- 🕒 **Posted:** 2026-10-04
+
+### [Senior Product Manager, Market Expansion – Merchant Central](https://www.linkedin.com/jobs/view/4439315606/) — NMI
+- 📍 **Location:** United States
+- 💰 **Salary:** $120,000 – $145,000 USD
+- 🕒 **Posted:** 2026-10-04
+
+### [Senior Product Manager - Collision- Remote within the US](https://www.linkedin.com/jobs/view/4475399486/) — OEC
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-04
+
+### [Principal Product Manager, AI Infrastructure](https://www.linkedin.com/jobs/view/4466495213/) — Microsoft
+- 📍 **Location:** United States
+- 💰 **Salary:** USD $142,800 - $274,800 per year
 - 🕒 **Posted:** 2026-10-04
