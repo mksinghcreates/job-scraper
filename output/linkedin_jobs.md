@@ -1,32 +1,56 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-10-05 09:16 UTC*
+*Last updated: 2026-10-06 01:58 UTC*
 
-**6 new role(s)** since last run · 6 total in last 1h
+**11 new role(s)** since last run · 11 total in last 1h
 
-### [Chief Product Officer (CPO) — Miami, FL (Remote - US Based Only)](https://www.linkedin.com/jobs/view/4473611945/) — Fatima Consultancy
+### [Director of Product - Marketplace Policy](https://www.linkedin.com/jobs/view/4476118293/) — StubHub
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $325,000—$340,000 USD
+- 🕒 **Posted:** 2026-10-06
+
+### [Director, AgentExchange Security & Labs](https://www.linkedin.com/jobs/view/4476122144/) — Salesforce
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $197,300 - $313,700 annually
+- 🕒 **Posted:** 2026-10-06
+
+### [Principal Product Manager](https://www.linkedin.com/jobs/view/4474642986/) — Haystack
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $197,900 - $267,800
+- 🕒 **Posted:** 2026-10-06
+
+### [VP, Product and UX](https://www.linkedin.com/jobs/view/4476108642/) — Aha!
 - 📍 **Location:** United States
-- 💰 **Salary:** $170,000 - $250,000
-- 🕒 **Posted:** 2026-10-05
+- 💰 **Salary:** $245,000-$320,000,
+- 🕒 **Posted:** 2026-10-06
 
-### [Sr Product & Data Integration Manager - Healthcare](https://www.linkedin.com/jobs/view/4473631066/) — TalentHop
+### [Executive Vice President (EVP) of Product Development](https://www.linkedin.com/jobs/view/4473695770/) — Schlipman Wealth.
 - 📍 **Location:** United States
-- 💰 **Salary:** $119,300.00/yr - $198,800.00/yr
-- 🕒 **Posted:** 2026-10-05
+- 🕒 **Posted:** 2026-10-06
 
-### [Senior Product Manager, CRM & GTM Systems](https://www.linkedin.com/jobs/view/4474254571/) — Jobgether
+### [Vice President of Product Management](https://www.linkedin.com/jobs/view/4476109783/) — CryptoCurrency Trading
 - 📍 **Location:** United States
-- 💰 **Salary:** $104,800–$176,400 USD
-- 🕒 **Posted:** 2026-10-05
+- 🕒 **Posted:** 2026-10-06
 
-### [Senior Tech Product Manager](https://www.linkedin.com/jobs/view/4473612948/) — TalentHop
+### [Sr. Product Manager](https://www.linkedin.com/jobs/view/4474660234/) — RemoteHunter
 - 📍 **Location:** United States
-- 💰 **Salary:** $91,700.00/yr - $163,700.00/yr
-- 🕒 **Posted:** 2026-10-05
+- 💰 **Salary:** $135,000.00/yr - $176,900.00/yr
+- 🕒 **Posted:** 2026-10-06
 
-### [Principal Product Architect](https://www.linkedin.com/jobs/view/4474250756/) — Jobgether
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-05
+### [Senior Product Manager, Accounting (Remote)](https://www.linkedin.com/jobs/view/4469495213/) — Rentvine
+- 📍 **Location:** Florida, United States
+- 🕒 **Posted:** 2026-10-06
 
-### [Principal Product Architect](https://www.linkedin.com/jobs/view/4394936815/) — NASCO
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-05
+### [Sr AI & Product Transformation Manager](https://www.linkedin.com/jobs/view/4476127273/) — Huntington National Bank
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $125,000.00 - $255,000.00
+- 🕒 **Posted:** 2026-10-06
+
+### [Sr AI & Product Transformation Manager](https://www.linkedin.com/jobs/view/4476131142/) — Huntington National Bank
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $125,000.00 - $255,000.00
+- 🕒 **Posted:** 2026-10-06
+
+### [Sr AI & Product Transformation Manager](https://www.linkedin.com/jobs/view/4476111759/) — Huntington National Bank
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $125,000.00 - $255,000.00
+- 🕒 **Posted:** 2026-10-06
