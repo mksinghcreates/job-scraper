@@ -1,117 +1,102 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-10-07 15:43 UTC*
+*Last updated: 2026-10-07 19:15 UTC*
 
-**25 new role(s)** since last run · 25 total in last 1h
+**21 new role(s)** since last run · 22 total in last 1h
 
-### [Head of Product – Bloomberg Professional Mobile App](https://www.linkedin.com/jobs/view/4435500719/) — Bloomberg
+### [Vice President, Product Management – Campaign Diversity](https://www.linkedin.com/jobs/view/4430816059/) — Epsilon
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $235,000.00/yr - $350,000.00/yr
+- 💰 **Salary:** USD $164,500.00 - USD $305,500.00/Annually
 - 🕒 **Posted:** 2026-10-07
 
-### [Group Product Manager, Voice Experiences on Search](https://www.linkedin.com/jobs/view/4475441223/) — Google
+### [Americas Product Director, Digital Assets](https://www.linkedin.com/jobs/view/4379994040/) — Invesco
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $240000 - $333000
+- 💰 **Salary:** $190,000 to $240,000 annually
 - 🕒 **Posted:** 2026-10-07
 
-### [Strategy and Operations Principal Lead, gTech Users and Products](https://www.linkedin.com/jobs/view/4475440301/) — Google
+### [Senior Director, Product Management](https://www.linkedin.com/jobs/view/4458755461/) — Capital One
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $186000 - $269000
+- 💰 **Salary:** $245,100 - $279,800
 - 🕒 **Posted:** 2026-10-07
 
-### [Senior Product Manager (Marketplace)](https://www.linkedin.com/jobs/view/4474286598/) — Traba
+### [Senior Manager, Product Management- Payments Team](https://www.linkedin.com/jobs/view/4458763413/) — Capital One
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $200,700 - $229,100
 - 🕒 **Posted:** 2026-10-07
 
-### [Director, Product Marketing (Core Media)](https://www.linkedin.com/jobs/view/4457266996/) — Bloomberg
+### [Senior Manager, Product Management -  Governance, Risk, and Compliance](https://www.linkedin.com/jobs/view/4448839005/) — Capital One
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $145,000.00/yr - $180,000.00/yr
+- 💰 **Salary:** $200,700 - $229,100
 - 🕒 **Posted:** 2026-10-07
 
-### [Senior Product Manager – Community Intelligence](https://www.linkedin.com/jobs/view/4460760849/) — Bloomberg
+### [Senior Manager, Product Manager- Risk Management, Compliance and Ethics](https://www.linkedin.com/jobs/view/4467963413/) — Capital One
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $140,000.00/yr - $295,000.00/yr
+- 💰 **Salary:** $200,700 - $229,100
 - 🕒 **Posted:** 2026-10-07
 
-### [Senior Product Manager (AI Agents)](https://www.linkedin.com/jobs/view/4474291406/) — Traba
+### [Senior Product Manager - Flights Search and Merchandising, Capital One Travel](https://www.linkedin.com/jobs/view/4440558572/) — Capital One
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $200,700 - $229,100
 - 🕒 **Posted:** 2026-10-07
 
-### [Head of Product Learning Experiences, Global Learning Experiences](https://www.linkedin.com/jobs/view/4475424944/) — Google
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $234000 - $325000
-- 🕒 **Posted:** 2026-10-07
-
-### [Staff / Principal Product Designer, Design Systems](https://www.linkedin.com/jobs/view/4456968548/) — Rho
+### [Senior Vice President, Product Design](https://www.linkedin.com/jobs/view/4476913118/) — BNY
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-07
 
-### [Principal Lead, Global Product Learning Experiences, YouTube](https://www.linkedin.com/jobs/view/4475421940/) — Google
+### [Product Design Director - HR Design](https://www.linkedin.com/jobs/view/4467971325/) — Capital One
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $171000 - $247000
+- 💰 **Salary:** $230,400 - $263,000
 - 🕒 **Posted:** 2026-10-07
 
-### [Vice President of Product Management](https://www.linkedin.com/jobs/view/4475453089/) — Astratech
+### [Chief Product Officer](https://www.linkedin.com/jobs/view/4474478068/) — RWAurix
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-07
 
-### [Vice President of Product Marketing Strategy](https://www.linkedin.com/jobs/view/4474438837/) — Nasarawa Invest
+### [Director, Product Management - Credit Card](https://www.linkedin.com/jobs/view/4465929881/) — USAA
+- 📍 **Location:** Colorado Springs, CO
+- 💰 **Salary:** $143,320 - $273,930
+- 🕒 **Posted:** 2026-10-07
+
+### [Director, Product - Fincrime](https://www.linkedin.com/jobs/view/4474464716/) — Zepz
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-07
 
-### [Vice President of Product Operations](https://www.linkedin.com/jobs/view/4474445598/) — Infinity Finance Firm
+### [Director of Product Development](https://www.linkedin.com/jobs/view/4476787919/) — Rubicon Healthcare Partners
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-07
 
-### [Director, Product Management](https://www.linkedin.com/jobs/view/4439481955/) — Dragos, Inc.
+### [Senior Product Manager](https://www.linkedin.com/jobs/view/4382465069/) — Aventia
+- 📍 **Location:** Latham, NY
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Product Manager](https://www.linkedin.com/jobs/view/4474479040/) — SoTalent
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-07
 
-### [Group Product Manager](https://www.linkedin.com/jobs/view/4456524876/) — OPENLANE
+### [Senior Technical Product Manager](https://www.linkedin.com/jobs/view/4475469632/) — RemoteHunter
 - 📍 **Location:** United States
-- 💰 **Salary:** $130,000.00/yr - $185,000.00/yr
+- 💰 **Salary:** $91,700.00/yr - $163,700.00/yr
 - 🕒 **Posted:** 2026-10-07
 
-### [Director, UX Design, Demand Tech Experiences](https://www.linkedin.com/jobs/view/4467927085/) — Amazon
+### [Sr. Product Manager](https://www.linkedin.com/jobs/view/4475467794/) — RemoteHunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $120,000.00/yr - $140,000.00/yr
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Growth Product Manager](https://www.linkedin.com/jobs/view/4473283516/) — Dataworks
+- 📍 **Location:** United States
+- 💰 **Salary:** $160-$250k
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Product Manager, Comet Manufacturing - East Coast US Remote](https://www.linkedin.com/jobs/view/4467789315/) — Cimpress Technology
+- 📍 **Location:** United States
+- 💰 **Salary:** $122,000.00 - $208,000.00 Per Year
+- 🕒 **Posted:** 2026-10-07
+
+### [Principal AI Transformation Specialist - Amazon Quick, Customer Success Center of Excellence](https://www.linkedin.com/jobs/view/4476790787/) — Amazon Web Services (AWS)
 - 📍 **Location:** New York, United States
 - 🕒 **Posted:** 2026-10-07
 
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4449867729/) — OEC
+### [Senior Product Manager - Consumer Credit Card](https://www.linkedin.com/jobs/view/4475465955/) — RemoteHunter
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior Product Strategy Manager](https://www.linkedin.com/jobs/view/4476774067/) — PowerSchool
-- 📍 **Location:** United States
-- 💰 **Salary:** $94,000 - $132,600 USD
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4467978546/) — Ncontracts
-- 📍 **Location:** United States
-- 💰 **Salary:** $130,000.00/yr - $150,000.00/yr
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior Product Manager](https://www.linkedin.com/jobs/view/4465998273/) — SONIFI Solutions, Inc.
-- 📍 **Location:** United States
-- 💰 **Salary:** $100,000 – $150,000 annually
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior Growth Product Manager, AI-Native](https://www.linkedin.com/jobs/view/4466599964/) — Magic Eden
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-07
-
-### [Director of Product Delivery](https://www.linkedin.com/jobs/view/4474462115/) — Diamond Hill Investment Group.
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-07
-
-### [Sr. Product Manager I (6841)](https://www.linkedin.com/jobs/view/4474461068/) — MetroStar
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $166,000 – $189,000
-- 🕒 **Posted:** 2026-10-07
-
-### [Director, Global Product Marketing- Body](https://www.linkedin.com/jobs/view/4437647101/) — Sol de Janeiro
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000 USD - $170,000 USD
-- 🕒 **Posted:** 2026-10-07
-
-### [Vice President of Product Strategy](https://www.linkedin.com/jobs/view/4474956809/) — CHIME
-- 📍 **Location:** United States
+- 💰 **Salary:** $200,700.00/yr - $250,900.00/yr
 - 🕒 **Posted:** 2026-10-07
