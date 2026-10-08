@@ -1,82 +1,62 @@
 # 🔥 LinkedIn — Product Leadership Roles
-*Last updated: 2026-10-08 19:36 UTC*
+*Last updated: 2026-10-08 23:58 UTC*
 
-**17 new role(s)** since last run · 17 total in last 1h
+**12 new role(s)** since last run · 13 total in last 1h
 
-### [Vice President, POM Product Management](https://www.linkedin.com/jobs/view/4441241304/) — BNY
+### [Principal Product Manager, Subrogation](https://www.linkedin.com/jobs/view/4477480451/) — CCC Intelligent Solutions
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $147,151.48 - $200,000.00
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior Vice President, POM Product Management](https://www.linkedin.com/jobs/view/4440372044/) — BNY
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-08
-
-### [Director, Product Management, AI Data Platform](https://www.linkedin.com/jobs/view/4468351627/) — Shutterstock
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-08
-
-### [Director, Product Solutions & Enablement – SME Commercial Payments](https://www.linkedin.com/jobs/view/4457289323/) — Mastercard
-- 📍 **Location:** Purchase, NY
-- 💰 **Salary:** $179,000 - $305,000 USD
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Product Manager, Consumer Payments](https://www.linkedin.com/jobs/view/4476205017/) — Affirm
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $195,000 - $255,000
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Associate, Product Manager - Commercial Card (Business Cards & Payments)](https://www.linkedin.com/jobs/view/4449457058/) — Capital One
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $111,200 - $126,900
-- 🕒 **Posted:** 2026-10-08
-
-### [VP, Product](https://www.linkedin.com/jobs/view/4477435432/) — Level Access
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $210,000 - $269,231
-- 🕒 **Posted:** 2026-10-08
-
-### [Group Product Manager](https://www.linkedin.com/jobs/view/4477430956/) — ImageTrend
-- 📍 **Location:** United States
-- 💰 **Salary:** $145,000.00/yr - $175,000.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [Product Management Director](https://www.linkedin.com/jobs/view/4477441683/) — Salesforce
-- 📍 **Location:** Indianapolis, IN
-- 💰 **Salary:** $197,300 - $313,700 annually
-- 🕒 **Posted:** 2026-10-08
-
-### [Director, Product Management](https://www.linkedin.com/jobs/view/4475466199/) — AmTrust Financial Services, Inc.
-- 📍 **Location:** United States
-- 💰 **Salary:** $ 114,700 -$175,000/year
-- 🕒 **Posted:** 2026-10-08
-
-### [Group Product Manager](https://www.linkedin.com/jobs/view/4456524876/) — OPENLANE
-- 📍 **Location:** United States
-- 💰 **Salary:** $130,000.00/yr - $185,000.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Manager, AI Product](https://www.linkedin.com/jobs/view/4477434894/) — American Residential Services
+### [Vice President of Product](https://www.linkedin.com/jobs/view/4474869003/) — Onfleet
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-08
 
-### [VP, COO, Strategic Technology and Consulting Partners](https://www.linkedin.com/jobs/view/4477437737/) — Salesforce
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $221,900 - $390,300 annually
-- 🕒 **Posted:** 2026-10-08
-
-### [Director of Product Data](https://www.linkedin.com/jobs/view/4477425944/) — CME Corp.
+### [Director, Product Management](https://www.linkedin.com/jobs/view/4458435368/) — Runpod
 - 📍 **Location:** United States
-- 💰 **Salary:** $110,000–$130,000 annually
+- 💰 **Salary:** $225,000 - $325,000
 - 🕒 **Posted:** 2026-10-08
 
-### [Director of Growth - USMC](https://www.linkedin.com/jobs/view/4476200173/) — Code Metal
-- 📍 **Location:** Washington, DC
+### [Director, TechEx, Product & Delivery Management](https://www.linkedin.com/jobs/view/4477489409/) — West Monroe
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $200,000—$250,000 USD
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior Product Manager, AI Physics](https://www.linkedin.com/jobs/view/4438384147/) — NVIDIA
+### [Director of Product Development - Aerospace](https://www.linkedin.com/jobs/view/4476222634/) — Tylent
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $175,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [VP, Client Partner](https://www.linkedin.com/jobs/view/4476209746/) — dentsu
+- 📍 **Location:** New Jersey, United States
+- 💰 **Salary:** $197,225 - $230,000
+- 🕒 **Posted:** 2026-10-08
+
+### [Principal Product Strategy Partner, Enterprise Financial Systems](https://www.linkedin.com/jobs/view/4475124632/) — Carrier
+- 📍 **Location:** Florida, United States
+- 💰 **Salary:** $143,000.00 - $286,000.00 annually
+- 🕒 **Posted:** 2026-10-08
+
+### [Principal Program Manager (OCI Energy Strategy)](https://www.linkedin.com/jobs/view/4474861372/) — Oracle
+- 📍 **Location:** New Mexico, United States
+- 💰 **Salary:** $90,100 - $209,500 per year
+- 🕒 **Posted:** 2026-10-08
+
+### [Principal Program Manager (OCI Energy Strategy)](https://www.linkedin.com/jobs/view/4474867172/) — Oracle
+- 📍 **Location:** Wisconsin, United States
+- 💰 **Salary:** $90,100 - $209,500 per year
+- 🕒 **Posted:** 2026-10-08
+
+### [Principal Program Manager (OCI Energy Strategy)](https://www.linkedin.com/jobs/view/4474847940/) — Oracle
 - 📍 **Location:** Texas, United States
+- 💰 **Salary:** $90,100 - $209,500 per year
 - 🕒 **Posted:** 2026-10-08
 
-### [Chief Product Officer](https://www.linkedin.com/jobs/view/4477456063/) — NICE Actimize
+### [Principal Program Manager (OCI Energy Strategy)](https://www.linkedin.com/jobs/view/4474852821/) — Oracle
+- 📍 **Location:** Michigan, United States
+- 💰 **Salary:** $90,100 - $209,500 per year
+- 🕒 **Posted:** 2026-10-08
+
+### [Director of Product, AI Growth](https://www.linkedin.com/jobs/view/4477484239/) — 1Password
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-08
